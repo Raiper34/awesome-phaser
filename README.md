@@ -7,14 +7,14 @@ Plugins
 -------
 [State transition](https://github.com/cristianbote/phaser-state-transition) - State transition plugin for Phaser.js  
 [SlickUI](https://github.com/Flaxis/slick-ui) - Lightweight Phaser UI plugin  
-https://github.com/orange-games/phaser-super-storage  
-https://github.com/samme/phaser-plugin-debug-arcade-physics  
-https://github.com/samme/phaser-plugin-scene-graph  
-https://github.com/webcaetano/craft  
-https://github.com/luizbills/phaser-behavior-plugin  
-https://github.com/orange-games/phaser-ads  
-https://github.com/VitaZheltyakov/phaser-arcade-circles-plugin  
-http://www.html5gamedevs.com/topic/22435-phaser-arcade-slopes-plugin/  
+[Super storage](https://github.com/orange-games/phaser-super-storage) - A cross platform storage plugin for Phaser  
+[Debug arcade physics](https://github.com/samme/phaser-plugin-debug-arcade-physics) - Draws properties of Arcade Physics bodies  
+[Scene graph](https://github.com/samme/phaser-plugin-scene-graph) - Prints Phaser’s display tree in the console.  
+[Craft](https://github.com/webcaetano/craft) - Phaser Library with utility chainable functions  
+[Behavior](https://github.com/luizbills/phaser-behavior-plugin) - Behavior System for Phaser games  
+[Phaser ads](https://github.com/orange-games/phaser-ads) - A Phaser plugin for providing nice ads integration in your phaser.io game  
+[Arcade circles](https://github.com/VitaZheltyakov/phaser-arcade-circles-plugin) - This plugin adds circle-collision to Phaser framework  
+[Arcade slopes](https://github.com/hexus/phaser-arcade-slopes) - A Phaser plugin that brings sloped tile collision handling to the Arcade Physics engine  
 https://github.com/mattcolman/phaser-list-view  
 http://www.phaser-lernen.de/phaser-addons/checkbox/  
 https://github.com/orange-games/phaser-input  
@@ -45,6 +45,6 @@ http://phaserchains.boniatillo.com/
 
 Ide
 ---
-https://gumroad.com/l/phasereditor  
-https://aurifexlabs.com/  
-http://mightyfingers.com/  
+[Phaser editor](https://gumroad.com/l/phasereditor) - Phaser Editor is a new editor to develop HTML5 2D games using the Phaser framework  
+[Abra](https://aurifexlabs.com/) - Abra is a web tool for building games with Phaser  
+[Mighty editor](http://mightyfingers.com/) - Web based open source HTML5 game editor, based on Phaser.io game engine  
