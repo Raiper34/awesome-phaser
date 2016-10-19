@@ -5,8 +5,8 @@
 
 Plugins
 -------
-https://github.com/cristianbote/phaser-state-transition  
-https://github.com/Flaxis/slick-ui  
+[State transition](https://github.com/cristianbote/phaser-state-transition) - State transition plugin for Phaser.js  
+[SlickUI](https://github.com/Flaxis/slick-ui) - Lightweight Phaser UI plugin  
 https://github.com/orange-games/phaser-super-storage  
 https://github.com/samme/phaser-plugin-debug-arcade-physics  
 https://github.com/samme/phaser-plugin-scene-graph  
