@@ -2,6 +2,10 @@
 <img src="http://phaser.io/images/github/learn.jpg" align="right">
 # awesome-phaser
 
+* [Plugins](#plugins)
+* [Tools](#tools)
+* [Ide](#ide)
+
 
 Plugins
 -------
