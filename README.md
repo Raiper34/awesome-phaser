@@ -52,3 +52,8 @@ Ide
 [Phaser editor](https://gumroad.com/l/phasereditor) - Phaser Editor is a new editor to develop HTML5 2D games using the Phaser framework  
 [Abra](https://aurifexlabs.com/) - Abra is a web tool for building games with Phaser  
 [Mighty editor](http://mightyfingers.com/) - Web based open source HTML5 game editor, based on Phaser.io game engine  
+
+Boilerplates
+---
+[phaser-boilerplate](https://github.com/webcaetano/phaser-boilerplate) Gulp+Webpack ES6, and many other features
+[phaser-electron](https://github.com/webcaetano/phaser-electron) Gulp+Webpack+Electron
