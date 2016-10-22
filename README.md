@@ -10,6 +10,8 @@
 
 Plugins
 -------
+[Debug tween](https://github.com/samme/phaser-plugin-debug-tween/) - Draws tween timelines and prints tween properties  
+[Sprite GUI](https://github.com/samme/phaser-sprite-gui) - Inspect and manipulate Phaser Sprites (via dat.gui)  
 [State transition](https://github.com/cristianbote/phaser-state-transition) - State transition plugin for Phaser.js  
 [SlickUI](https://github.com/Flaxis/slick-ui) - Lightweight Phaser UI plugin  
 [Super storage](https://github.com/orange-games/phaser-super-storage) - A cross platform storage plugin for Phaser  
@@ -36,6 +38,7 @@ Plugins
 
 Tools
 -----
+[Phaser Sprite Sheet Unpacker](https://github.com/lvcabral/PhaserSpriteSheetUnpacker) - Tool to unpack frames from a Phaser Sprite Sheet  
 [Assetpack generator](https://github.com/hilts-vaughan/grunt-phaser-assetpack-generator) - This tool helps you generate an asset pack from your filesystem directory, so that you can easily preload all your assets required for your Phaser game.  
 [PFA Exporter](https://github.com/mmcs85/PFA-Exporter) - Phaser Flash Asset Exporter  
 [Phaser sublime package](https://github.com/boniatillo-com/PhaserSublimePackage) - Sublime Text packages for Phaser development  
