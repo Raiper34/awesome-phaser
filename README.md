@@ -56,5 +56,5 @@ Ide
 
 Boilerplates
 ---
-[phaser-boilerplate](https://github.com/webcaetano/phaser-boilerplate) Gulp+Webpack ES6, and many other features
+[phaser-boilerplate](https://github.com/webcaetano/phaser-boilerplate) Gulp+Webpack ES6, and many other features  
 [phaser-electron](https://github.com/webcaetano/phaser-electron) Gulp+Webpack+Electron
