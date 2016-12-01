@@ -23,7 +23,6 @@ Plugins
 [Arcade circles](https://github.com/VitaZheltyakov/phaser-arcade-circles-plugin) - This plugin adds circle-collision to Phaser framework  
 [Arcade slopes](https://github.com/hexus/phaser-arcade-slopes) - A Phaser plugin that brings sloped tile collision handling to the Arcade Physics engine  
 [List view](https://github.com/mattcolman/phaser-list-view) - List view class for Phaser. Great for high scoreboards.  
-[Checkbox](http://www.phaser-lernen.de/phaser-addons/checkbox/)  
 [Input](https://github.com/orange-games/phaser-input) - Adds input boxes to Phaser like CanvasInput, but also works for WebGL and Mobile, made for Phaser only.  
 [Save CPUT](https://github.com/photonstorm/phaser-plugins/tree/master/SaveCPU)  
 [Swipe](https://github.com/flogvit/phaser-swipe) - A swipe component for Phaser.io  
