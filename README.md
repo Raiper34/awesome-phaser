@@ -10,6 +10,9 @@
 
 Plugins
 -------
+[Advanced timing](https://github.com/samme/phaser-plugin-advanced-timing) - Shows FPS, frame intervals, and performance info  
+[Step](https://github.com/samme/phaser-plugin-step) - Adds keyboard shortcuts for stepping  
+[Timestore](https://github.com/xenohunter/timestore) - Multiple timers manager, especially good for games.  
 [Debug tween](https://github.com/samme/phaser-plugin-debug-tween/) - Draws tween timelines and prints tween properties  
 [Sprite GUI](https://github.com/samme/phaser-sprite-gui) - Inspect and manipulate Phaser Sprites (via dat.gui)  
 [State transition](https://github.com/cristianbote/phaser-state-transition) - State transition plugin for Phaser.js  
