@@ -4,12 +4,13 @@
 
 * [Plugins](#plugins)
 * [Tools](#tools)
-* [Ide](#ide)
+* [Ides](#ide)
 * [Boilerplates](#boilerplates)
 
 
 Plugins
 -------
+[Scene Graph](https://github.com/samme/phaser-plugin-scene-graph) - Prints Phaser’s display tree in the console.  
 [Advanced timing](https://github.com/samme/phaser-plugin-advanced-timing) - Shows FPS, frame intervals, and performance info  
 [Step](https://github.com/samme/phaser-plugin-step) - Adds keyboard shortcuts for stepping  
 [Timestore](https://github.com/xenohunter/timestore) - Multiple timers manager, especially good for games.  
@@ -54,7 +55,7 @@ Tools
 [Phzr](https://github.com/dparis/phzr) - A ClojureScript wrapper for the Phaser HTML5 game framework  
 [Phaser chains](http://phaserchains.boniatillo.com/) - Alternative documentation browser for  
 
-Ide
+Ides
 ---
 [Phaser editor](https://gumroad.com/l/phasereditor) - Phaser Editor is a new editor to develop HTML5 2D games using the Phaser framework  
 [Abra](https://aurifexlabs.com/) - Abra is a web tool for building games with Phaser  
