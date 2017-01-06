@@ -64,4 +64,5 @@ Ides
 Boilerplates
 ---
 [phaser-boilerplate](https://github.com/webcaetano/phaser-boilerplate) Gulp+Webpack ES6, and many other features  
-[phaser-electron](https://github.com/webcaetano/phaser-electron) Gulp+Webpack+Electron
+[phaser-electron](https://github.com/webcaetano/phaser-electron) Gulp+Webpack+Electron  
+[responsiveTouchGameFramework](https://github.com/xem/responsiveTouchGameFramework?utm_source=gamedevjsweekly&utm_medium=email) A tiny boilerplate for HTML5 games featuring a square, centered and responsive canvas, and unified input (mouse + touch)  
