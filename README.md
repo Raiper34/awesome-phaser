@@ -10,6 +10,7 @@
 
 Plugins
 -------
+[Phaser FloatingText](https://github.com/netgfx/Phaser-FloatingText) - A floating text plugin for Phaser, with many effects to choose from  
 [Scene Graph](https://github.com/samme/phaser-plugin-scene-graph) - Prints Phaser’s display tree in the console.  
 [Advanced timing](https://github.com/samme/phaser-plugin-advanced-timing) - Shows FPS, frame intervals, and performance info  
 [Step](https://github.com/samme/phaser-plugin-step) - Adds keyboard shortcuts for stepping  
