@@ -66,8 +66,8 @@ Ides
 
 Boilerplates
 ---
-[phaser-runtime](https://github.com/samuelnovaes/phaser-runtime?utm_source=gamedevjsweekly&utm_medium=email) Run Phaser games on desktop
-[Phaser NPM Webpack TypeScript Starter Project](https://github.com/rroylance/phaser-npm-webpack-typescript-starter-project) Project to get you started with your Phaser (using the npm module) game using Typescript and Webpack for building!
+[phaser-runtime](https://github.com/samuelnovaes/phaser-runtime?utm_source=gamedevjsweekly&utm_medium=email) Run Phaser games on desktop  
+[Phaser NPM Webpack TypeScript Starter Project](https://github.com/rroylance/phaser-npm-webpack-typescript-starter-project) Project to get you started with your Phaser (using the npm module) game using Typescript and Webpack for building!  
 [phaser-boilerplate](https://github.com/webcaetano/phaser-boilerplate) Gulp+Webpack ES6, and many other features  
 [phaser-electron](https://github.com/webcaetano/phaser-electron) Gulp+Webpack+Electron  
 [responsiveTouchGameFramework](https://github.com/xem/responsiveTouchGameFramework?utm_source=gamedevjsweekly&utm_medium=email) A tiny boilerplate for HTML5 games featuring a square, centered and responsive canvas, and unified input (mouse + touch)  
