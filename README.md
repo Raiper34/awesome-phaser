@@ -66,6 +66,7 @@ Ides
 
 Boilerplates
 ---
+[brunch-phaser](https://github.com/samme/brunch-phaser) a [Brunch](http://brunch.io) skeleton for making games with Phaser. You can use CoffeeScript, ES6, TypeScript, or plain JavaScript.  
 [phaser-runtime](https://github.com/samuelnovaes/phaser-runtime?utm_source=gamedevjsweekly&utm_medium=email) Run Phaser games on desktop  
 [Phaser NPM Webpack TypeScript Starter Project](https://github.com/rroylance/phaser-npm-webpack-typescript-starter-project) Project to get you started with your Phaser (using the npm module) game using Typescript and Webpack for building!  
 [phaser-boilerplate](https://github.com/webcaetano/phaser-boilerplate) Gulp+Webpack ES6, and many other features  
