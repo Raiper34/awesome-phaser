@@ -10,6 +10,7 @@
 
 Plugins
 -------
+[Phaser Grid Physics](https://github.com/nkholski/phaser-grid-physics) - The Grid Physics plugin is to Arcade physics what Arcade physics is to Box2D.  
 [Phaser Manifest Loader](https://github.com/mattcolman/phaser-manifest-loader) - Phaser Manifest Loader  
 [Phaser scrollable component](https://github.com/trueicecold/phaser-scrollable) - A phaser component to implement a scrollable group.  
 [Phaser FloatingText](https://github.com/netgfx/Phaser-FloatingText) - A floating text plugin for Phaser, with many effects to choose from  
