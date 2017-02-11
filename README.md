@@ -10,6 +10,7 @@
 
 Plugins
 -------
+[Phaser Barchart](https://github.com/aphorism44/phaser-barchart) - Specifically, it generates a bar graph from an array of numbers.  
 [Phaser Grid Physics](https://github.com/nkholski/phaser-grid-physics) - The Grid Physics plugin is to Arcade physics what Arcade physics is to Box2D.  
 [Phaser Manifest Loader](https://github.com/mattcolman/phaser-manifest-loader) - Phaser Manifest Loader  
 [Phaser scrollable component](https://github.com/trueicecold/phaser-scrollable) - A phaser component to implement a scrollable group.  
