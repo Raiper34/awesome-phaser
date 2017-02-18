@@ -10,11 +10,12 @@
 
 Plugins
 -------
-[Phaser Barchart](https://github.com/aphorism44/phaser-barchart) - Specifically, it generates a bar graph from an array of numbers.  
-[Phaser Grid Physics](https://github.com/nkholski/phaser-grid-physics) - The Grid Physics plugin is to Arcade physics what Arcade physics is to Box2D.  
-[Phaser Manifest Loader](https://github.com/mattcolman/phaser-manifest-loader) - Phaser Manifest Loader  
-[Phaser scrollable component](https://github.com/trueicecold/phaser-scrollable) - A phaser component to implement a scrollable group.  
-[Phaser FloatingText](https://github.com/netgfx/Phaser-FloatingText) - A floating text plugin for Phaser, with many effects to choose from  
+[Debug Timer](https://github.com/samme/phaser-debug-timer) - Debug methods for timers and timer events.  
+[Barchart](https://github.com/aphorism44/phaser-barchart) - Specifically, it generates a bar graph from an array of numbers.  
+[Grid Physics](https://github.com/nkholski/phaser-grid-physics) - The Grid Physics plugin is to Arcade physics what Arcade physics is to Box2D.  
+[Manifest Loader](https://github.com/mattcolman/phaser-manifest-loader) - Phaser Manifest Loader  
+[Scrollable component](https://github.com/trueicecold/phaser-scrollable) - A phaser component to implement a scrollable group.  
+[Floating Text](https://github.com/netgfx/Phaser-FloatingText) - A floating text plugin for Phaser, with many effects to choose from  
 [Scene Graph](https://github.com/samme/phaser-plugin-scene-graph) - Prints Phaser’s display tree in the console.  
 [Advanced timing](https://github.com/samme/phaser-plugin-advanced-timing) - Shows FPS, frame intervals, and performance info  
 [Step](https://github.com/samme/phaser-plugin-step) - Adds keyboard shortcuts for stepping  
@@ -37,7 +38,7 @@ Plugins
 [Save CPUT](https://github.com/photonstorm/phaser-plugins/tree/master/SaveCPU)  
 [Swipe](https://github.com/flogvit/phaser-swipe) - A swipe component for Phaser.io  
 [Sound analyser](https://github.com/KaktusFlame/phaser-sound-analyser) - Phaser plugin - provide you with possibility to create real time visual frequency/time data analyser, simple sound analyse object with real time data update event and more...  
-[Phasetips](https://github.com/netgfx/Phasetips) - A tooltips plugin for Phaser.io game framework  
+[Phase tips](https://github.com/netgfx/Phasetips) - A tooltips plugin for Phaser.io game framework  
 [Healthbar](https://github.com/bmarwane/phaser.healthbar) - An attempt to create a simple and customizable healthbar for Phaser.js games.  
 [Inspector](https://github.com/netcell/phaser-inspector) - Phaser Inspector Plugin allows you to inspect Phaser game.  
 [Nine patch](https://github.com/netcell/nine-patch-phaser-plugin) - A Nine Patch Plugin for Phaser  
