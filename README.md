@@ -10,6 +10,13 @@
 
 Plugins
 -------
+[Typewriter](https://github.com/netgfx/Phaser-typewriter) - A phaser helper for the typewriter effect  
+[Modals](https://github.com/netgfx/phaser_modals) - Phaser.io Modals creator script  
+[Phaser Bootstrap](https://github.com/netgfx/Phaser_Bootstrap) - A simple bootstrap for phaser  
+[FXQ](https://github.com/netgfx/Phaser-FXQ) - A special effects and animation queue manager  
+[PhaseSlider](https://github.com/netgfx/PhaseSlider) - A slider UI component for Phaser.io Javascript library  
+[Sound Manager](https://github.com/netgfx/Phaser-SoundManager) - A small sound-manager for easily use and parse sounds from assetPacks  
+[PhaseSlider](https://github.com/netgfx/PhaseSlider) - A slider UI component for Phaser.io Javascript library  
 [Debug Timer](https://github.com/samme/phaser-debug-timer) - Debug methods for timers and timer events.  
 [Barchart](https://github.com/aphorism44/phaser-barchart) - Specifically, it generates a bar graph from an array of numbers.  
 [Grid Physics](https://github.com/nkholski/phaser-grid-physics) - The Grid Physics plugin is to Arcade physics what Arcade physics is to Box2D.  
