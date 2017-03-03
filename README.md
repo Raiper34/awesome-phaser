@@ -10,6 +10,9 @@
 
 Plugins
 -------
+[i18next](https://github.com/orange-games/phaser-i18next) - Phaser plugin for translations using i18next  
+[Rotate Sprite Extension](https://github.com/jdnichollsc/Phaser-Rotate-Sprite-Extension) - Rotate Sprite Extension for Phaser Framework  
+[Game Gui](https://github.com/samme/phaser-plugin-game-gui) - Inspect and manipulate some common game settings  
 [Typewriter](https://github.com/netgfx/Phaser-typewriter) - A phaser helper for the typewriter effect  
 [Modals](https://github.com/netgfx/phaser_modals) - Phaser.io Modals creator script  
 [Phaser Bootstrap](https://github.com/netgfx/Phaser_Bootstrap) - A simple bootstrap for phaser  
