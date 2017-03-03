@@ -71,7 +71,7 @@ Tools
 [Phzr](https://github.com/dparis/phzr) - A ClojureScript wrapper for the Phaser HTML5 game framework  
 [Phaser chains](http://phaserchains.boniatillo.com/) - Alternative documentation browser for  
 
-Ides
+IDEs
 ---
 [Phaser editor](https://gumroad.com/l/phasereditor) - Phaser Editor is a new editor to develop HTML5 2D games using the Phaser framework  
 [Abra](https://aurifexlabs.com/) - Abra is a web tool for building games with Phaser  
