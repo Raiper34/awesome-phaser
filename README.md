@@ -10,6 +10,8 @@
 
 Plugins
 -------
+[View cache](https://github.com/samme/phaser-view-cache) - Lists the contents of the game cache   
+[Debug object](https://github.com/samme/phaser-debug-object) - Adds `game.debug.object()`, a generic object display   
 [Phaser bones](https://bitbucket.org/silashatfield/phaserbones) -   
 [i18next](https://github.com/orange-games/phaser-i18next) - Phaser plugin for translations using i18next  
 [Rotate Sprite Extension](https://github.com/jdnichollsc/Phaser-Rotate-Sprite-Extension) - Rotate Sprite Extension for Phaser Framework  
@@ -42,7 +44,8 @@ Plugins
 [Behavior](https://github.com/luizbills/phaser-behavior-plugin) - Behavior System for Phaser games  
 [Phaser ads](https://github.com/orange-games/phaser-ads) - A Phaser plugin for providing nice ads integration in your phaser.io game  
 [Arcade circles](https://github.com/VitaZheltyakov/phaser-arcade-circles-plugin) - This plugin adds circle-collision to Phaser framework  
-[Arcade slopes](https://github.com/hexus/phaser-arcade-slopes) - A Phaser plugin that brings sloped tile collision handling to the Arcade Physics engine  
+[Arcade 
+](https://github.com/hexus/phaser-arcade-slopes) - A Phaser plugin that brings sloped tile collision handling to the Arcade Physics engine  
 [List view](https://github.com/mattcolman/phaser-list-view) - List view class for Phaser. Great for high scoreboards.  
 [Checkbox](http://www.phaser-lernen.de/phaser-addons/checkbox/)  
 [Input](https://github.com/orange-games/phaser-input) - Adds input boxes to Phaser like CanvasInput, but also works for WebGL and Mobile, made for Phaser only.  
