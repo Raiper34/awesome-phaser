@@ -10,6 +10,8 @@
 
 Plugins
 -------
+[Debug emiter](https://github.com/samme/phaser-debug-emitter) - Debug methods for particle emitters   
+[Underline text](https://github.com/brentstrandy/phaser-underline-text) - Extends Phaser.Text to easily let you add underlines anywhere in your text   
 [View cache](https://github.com/samme/phaser-view-cache) - Lists the contents of the game cache   
 [Debug object](https://github.com/samme/phaser-debug-object) - Adds `game.debug.object()`, a generic object display   
 [Phaser bones](https://bitbucket.org/silashatfield/phaserbones) -   
