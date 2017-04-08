@@ -65,6 +65,7 @@ Plugins
 
 Tools
 -----
+[System plugin](https://github.com/phreaknation/system.plugin) - This project is setup to help kickstart building Phaser.io plugins. 
 [Phaser Sprite Sheet Unpacker](https://github.com/lvcabral/PhaserSpriteSheetUnpacker) - Tool to unpack frames from a Phaser Sprite Sheet  
 [Assetpack generator](https://github.com/hilts-vaughan/grunt-phaser-assetpack-generator) - This tool helps you generate an asset pack from your filesystem directory, so that you can easily preload all your assets required for your Phaser game.  
 [PFA Exporter](https://github.com/mmcs85/PFA-Exporter) - Phaser Flash Asset Exporter  
