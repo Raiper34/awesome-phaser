@@ -79,6 +79,7 @@ Tools
 [MiaPhaser](https://github.com/gamefriends/MiaPhaser) - Flash To Phaser  
 [Phzr](https://github.com/dparis/phzr) - A ClojureScript wrapper for the Phaser HTML5 game framework  
 [Phaser chains](http://phaserchains.boniatillo.com/) - Alternative documentation browser for  
+[Craft](https://github.com/webcaetano/craft) - Phaser chainable and other utility features 
 
 IDEs
 ---
