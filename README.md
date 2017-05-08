@@ -10,6 +10,7 @@
 
 Plugins
 -------
+[a4g](https://github.com/ad4game/phaser-a4g) - Phaser plugin allowing Video and HTML5 ad integrations with phaser.io games   
 [Web workers](https://github.com/orange-games/phaser-web-workers) - A simple Phaser plugin that allows you to easily integrate Web Workers in your game   
 [Debug emiter](https://github.com/samme/phaser-debug-emitter) - Debug methods for particle emitters   
 [Underline text](https://github.com/brentstrandy/phaser-underline-text) - Extends Phaser.Text to easily let you add underlines anywhere in your text   
