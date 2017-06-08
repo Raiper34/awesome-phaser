@@ -10,6 +10,7 @@
 
 Plugins
 -------
+[Procedural_dungeon](https://github.com/anthony-mills/procedural_dungeon) - PhaserJS plugin for the creation of dungeon layouts procedurally   
 [Data uri snippets](https://github.com/SaFrMo/data-uri-snippets) - NPM package for commonly-used data URIs   
 [Link](https://github.com/SaFrMo/phaser-link) - Link (Legend of Zelda)-like class for Phaser   
 [Mario](https://github.com/SaFrMo/phaser-mario) - Mario-like class for Phaser   
