@@ -4,12 +4,15 @@
 
 * [Plugins](#plugins)
 * [Tools](#tools)
-* [Ides](#ide)
+* [Ides](#ides)
 * [Boilerplates](#boilerplates)
 
 
 Plugins
 -------
+[Data uri snippets](https://github.com/SaFrMo/data-uri-snippets) - NPM package for commonly-used data URIs   
+[Link](https://github.com/SaFrMo/phaser-link) - Link (Legend of Zelda)-like class for Phaser   
+[Mario](https://github.com/SaFrMo/phaser-mario) - Mario-like class for Phaser   
 [Percent bar](https://github.com/SaFrMo/phaser-percent-bar) - Auto-updating percentage bar for Phaser   
 [Aseprite](https://github.com/JeremyWildsmith/phaser-aseprite) - Aseprite Sprite loader for Phaser   
 [a4g](https://github.com/ad4game/phaser-a4g) - Phaser plugin allowing Video and HTML5 ad integrations with phaser.io games   
