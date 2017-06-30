@@ -72,6 +72,7 @@ Plugins
 
 Tools
 -----
+[Phaser Node Kit](https://github.com/develephant/phaser-node-kit) - Rapid Game Development with PhaserJS and Node for Modern Browsers.  
 [Phaser CLI](https://github.com/nerdenough/phaser-cli) - A simple CLI for scaffolding Phaser projects.  
 [LOONPHYSICS](https://loonride.com/physics) - Edit and export physics bodies for Phaser with ease  
 [System plugin](https://github.com/phreaknation/system.plugin) - This project is setup to help kickstart building Phaser.io plugins.  
