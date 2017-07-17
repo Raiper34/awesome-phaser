@@ -72,6 +72,7 @@ Plugins
 
 Tools
 -----
+[Neutrino Particles](https://neutrinoparticles.com/) - Particles Editor with export to JavaScript and C# source code.  
 [Phaser Node Kit](https://github.com/develephant/phaser-node-kit) - Rapid Game Development with PhaserJS and Node for Modern Browsers.  
 [Phaser CLI](https://github.com/nerdenough/phaser-cli) - A simple CLI for scaffolding Phaser projects.  
 [LOONPHYSICS](https://loonride.com/physics) - Edit and export physics bodies for Phaser with ease  
