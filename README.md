@@ -98,6 +98,7 @@ IDEs
 
 Boilerplates
 ---
+[Phaser Starter](https://github.com/oliverbenns/phaser-starter) Simple starter project to get a Phaser game environment up and running with ease. With Webpack, ES6 transpiling, page reloading and Github page publishing.  
 [Phaser Webpack Loader](https://github.com/goldfire/phaser-webpack-loader) Asset loader for Phaser + Webpack.  
 [brunch-phaser](https://github.com/samme/brunch-phaser) a [Brunch](http://brunch.io) skeleton for making games with Phaser. You can use CoffeeScript, ES6, TypeScript, or plain JavaScript.  
 [phaser-runtime](https://github.com/samuelnovaes/phaser-runtime?utm_source=gamedevjsweekly&utm_medium=email) Run Phaser games on desktop  
