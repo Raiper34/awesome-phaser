@@ -1,6 +1,8 @@
 <img src="http://phaser.io/images/github/div-getting-started.png" align="right">
 <img src="http://phaser.io/images/github/learn.jpg" align="right">
-# awesome-phaser
+
+Awesome phaser
+---
 
 * [Plugins](#plugins)
 * [Tools](#tools)
