@@ -12,6 +12,8 @@ Awesome phaser
 
 Plugins
 -------
+[Nineslice](https://github.com/orange-games/phaser-nineslice) - NineSlice plugin for Phaser!  
+[Phaser Ui](https://github.com/JarLowrey/phaser-ui) - Easy to use UI components for the Phaser.io game engine  
 [Navigation Meshes](https://github.com/mikewesthad/phaser-navmesh) - A plugin for path-finding in Phaser using navmeshes   
 [Procedural_dungeon](https://github.com/anthony-mills/procedural_dungeon) - PhaserJS plugin for the creation of dungeon layouts procedurally   
 [Data uri snippets](https://github.com/SaFrMo/data-uri-snippets) - NPM package for commonly-used data URIs   
