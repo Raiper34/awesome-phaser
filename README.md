@@ -59,7 +59,7 @@ Plugins
 [Behavior](https://github.com/luizbills/phaser-behavior-plugin) - Behavior System for Phaser games  
 [Phaser ads](https://github.com/orange-games/phaser-ads) - A Phaser plugin for providing nice ads integration in your phaser.io game  
 [Arcade circles](https://github.com/VitaZheltyakov/phaser-arcade-circles-plugin) - This plugin adds circle-collision to Phaser framework  
-[Arcade 
+[Arcade slopes
 ](https://github.com/hexus/phaser-arcade-slopes) - A Phaser plugin that brings sloped tile collision handling to the Arcade Physics engine  
 [List view](https://github.com/mattcolman/phaser-list-view) - List view class for Phaser. Great for high scoreboards.  
 [Checkbox](https://github.com/Raiper34/phaser-checkbox) - This addon give you the option to use checkbox-elements in Phaser.  
@@ -104,6 +104,7 @@ IDEs
 
 Boilerplates
 ---
+[Phaser 3 + ES6 + Webpack](https://github.com/nkholski/phaser3-es6-webpack) This is based on the excellent Bootstrap project for Phaser 2 "Phaser + ES6 + Webpack"  
 [Orange Games Boilerplate](https://github.com/orange-games/phaser-ts-boilerplate) The boilerplate we use internally at Orange Games  
 [Phaser Starter](https://github.com/oliverbenns/phaser-starter) Simple starter project to get a Phaser game environment up and running with ease. With Webpack, ES6 transpiling, page reloading and Github page publishing.  
 [Phaser Webpack Loader](https://github.com/goldfire/phaser-webpack-loader) Asset loader for Phaser + Webpack.  
