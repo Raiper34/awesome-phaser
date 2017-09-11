@@ -12,6 +12,8 @@ Awesome phaser
 
 Plugins
 -------
+[Dialog Manager](https://github.com/phreaknation/plugin.dialogmanager) -   
+[Pocketdebug](https://github.com/samid737/phaser-plugin-pocketdebug) - Simple pocket sized debug module for Phaser. Display FPS graph, drawcalls in DOM text  
 [Nineslice](https://github.com/orange-games/phaser-nineslice) - NineSlice plugin for Phaser!  
 [Phaser Ui](https://github.com/JarLowrey/phaser-ui) - Easy to use UI components for the Phaser.io game engine  
 [Navigation Meshes](https://github.com/mikewesthad/phaser-navmesh) - A plugin for path-finding in Phaser using navmeshes   
