@@ -79,6 +79,7 @@ Plugins
 
 Tools
 -----
+[Docker Image](https://hub.docker.com/r/nidup/phaser/) -   
 [RobotlegsJS](https://github.com/RobotlegsJS/RobotlegsJS-Phaser) - RobotlegsJS framework integration with Phaser.  
 [Neutrino Particles](https://neutrinoparticles.com/) - Particles Editor with export to JavaScript and C# source code.  
 [Phaser Node Kit](https://github.com/develephant/phaser-node-kit) - Rapid Game Development with PhaserJS and Node for Modern Browsers.  
