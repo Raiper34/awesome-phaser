@@ -12,6 +12,7 @@ Awesome phaser
 
 Plugins
 -------
+[Navmesh Generation](https://github.com/amaccann/phaser-navmesh-generation) - This Phaser plugin generates Navigation Meshes from supplied Phaser  
 [Dialog Manager](https://github.com/phreaknation/plugin.dialogmanager) -   
 [Pocketdebug](https://github.com/samid737/phaser-plugin-pocketdebug) - Simple pocket sized debug module for Phaser. Display FPS graph, drawcalls in DOM text  
 [Nineslice](https://github.com/orange-games/phaser-nineslice) - NineSlice plugin for Phaser!  
