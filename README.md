@@ -80,6 +80,8 @@ Plugins
 
 Tools
 -----
+[Kotlin Phaser](https://github.com/hiperbou/kotlin-phaser) - Use Kotlin and Phaser 2D game framework for making HTML5 games.  
+[Phaser Physics Editor](http://subefotos.esy.es/PhysicsEditor/) -   
 [Docker Image](https://hub.docker.com/r/nidup/phaser/) -   
 [RobotlegsJS](https://github.com/RobotlegsJS/RobotlegsJS-Phaser) - RobotlegsJS framework integration with Phaser.  
 [Neutrino Particles](https://neutrinoparticles.com/) - Particles Editor with export to JavaScript and C# source code.  
