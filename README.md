@@ -80,6 +80,7 @@ Plugins
 
 Tools
 -----
+[Phaser particle editor](https://phaser-particle-editor.firebaseapp.com) -   
 [Kotlin Phaser](https://github.com/hiperbou/kotlin-phaser) - Use Kotlin and Phaser 2D game framework for making HTML5 games.  
 [Phaser Physics Editor](http://subefotos.esy.es/PhysicsEditor/) -   
 [Docker Image](https://hub.docker.com/r/nidup/phaser/) -   
@@ -110,6 +111,7 @@ IDEs
 
 Boilerplates
 ---
+[Phaser Cordova Es6 ](https://github.com/udia-software/phaser-cordova-es6) A Phaser, Cordova, Webpack (ES6) bootstrap/boilerplate project  
 [Phaser 3 + ES6 + Webpack](https://github.com/nkholski/phaser3-es6-webpack) This is based on the excellent Bootstrap project for Phaser 2 "Phaser + ES6 + Webpack"  
 [Orange Games Boilerplate](https://github.com/orange-games/phaser-ts-boilerplate) The boilerplate we use internally at Orange Games  
 [Phaser Starter](https://github.com/oliverbenns/phaser-starter) Simple starter project to get a Phaser game environment up and running with ease. With Webpack, ES6 transpiling, page reloading and Github page publishing.  
