@@ -112,17 +112,17 @@ IDEs
 
 Boilerplates
 ---
-[Phaser MVC](https://github.com/TLmaK0/phaser-mvc) MVC for phaser  
-[Phaser Cordova Es6](https://github.com/udia-software/phaser-cordova-es6) A Phaser, Cordova, Webpack (ES6) bootstrap/boilerplate project  
-[Phaser 3 + ES6 + Webpack](https://github.com/nkholski/phaser3-es6-webpack) This is based on the excellent Bootstrap project for Phaser 2 "Phaser + ES6 + Webpack"  
-[Orange Games Boilerplate](https://github.com/orange-games/phaser-ts-boilerplate) The boilerplate we use internally at Orange Games  
-[Phaser Starter](https://github.com/oliverbenns/phaser-starter) Simple starter project to get a Phaser game environment up and running with ease. With Webpack, ES6 transpiling, page reloading and Github page publishing.  
-[Phaser Webpack Loader](https://github.com/goldfire/phaser-webpack-loader) Asset loader for Phaser + Webpack.  
-[brunch-phaser](https://github.com/samme/brunch-phaser) a [Brunch](http://brunch.io) skeleton for making games with Phaser. You can use CoffeeScript, ES6, TypeScript, or plain JavaScript.  
-[phaser-runtime](https://github.com/samuelnovaes/phaser-runtime?utm_source=gamedevjsweekly&utm_medium=email) Run Phaser games on desktop  
-[Phaser NPM Webpack TypeScript Starter Project](https://github.com/rroylance/phaser-npm-webpack-typescript-starter-project) Project to get you started with your Phaser (using the npm module) game using Typescript and Webpack for building!  
-[phaser-boilerplate](https://github.com/webcaetano/phaser-boilerplate) Gulp+Webpack ES6, and many other features  
-[phaser-electron](https://github.com/webcaetano/phaser-electron) Gulp+Webpack+Electron  
-[generator-phaser-plus](https://github.com/rblopes/generator-phaser-plus) Yeoman Generator for bootstrapping Phaser Games  
-[responsiveTouchGameFramework](https://github.com/xem/responsiveTouchGameFramework?utm_source=gamedevjsweekly&utm_medium=email) A tiny boilerplate for HTML5 games featuring a square, centered and responsive canvas, and unified input (mouse + touch)  
-[Phaser ES6 Starter](https://github.com/brenopolanski/phaser-es6-starter) A template for writing Phaser Games based on ECMAScript 2015 (ES6) + Webpack + Progressive Web Apps for rapid game development.
+[Phaser MVC](https://github.com/TLmaK0/phaser-mvc) - MVC for phaser  
+[Phaser Cordova Es6](https://github.com/udia-software/phaser-cordova-es6) - A Phaser, Cordova, Webpack (ES6) bootstrap/boilerplate project  
+[Phaser 3 + ES6 + Webpack](https://github.com/nkholski/phaser3-es6-webpack) - This is based on the excellent Bootstrap project for Phaser 2 "Phaser + ES6 + Webpack"  
+[Orange Games Boilerplate](https://github.com/orange-games/phaser-ts-boilerplate) - The boilerplate we use internally at Orange Games  
+[Phaser Starter](https://github.com/oliverbenns/phaser-starter) - Simple starter project to get a Phaser game environment up and running with ease. With Webpack, ES6 transpiling, page reloading and Github page publishing.  
+[Phaser Webpack Loader](https://github.com/goldfire/phaser-webpack-loader) - Asset loader for Phaser + Webpack.  
+[brunch-phaser](https://github.com/samme/brunch-phaser) - a [Brunch](http://brunch.io) skeleton for making games with Phaser. You can use CoffeeScript, ES6, TypeScript, or plain JavaScript.  
+[phaser-runtime](https://github.com/samuelnovaes/phaser-runtime?utm_source=gamedevjsweekly&utm_medium=email) - Run Phaser games on desktop  
+[Phaser NPM Webpack TypeScript Starter Project](https://github.com/rroylance/phaser-npm-webpack-typescript-starter-project) - Project to get you started with your Phaser (using the npm module) game using Typescript and Webpack for building!  
+[phaser-boilerplate](https://github.com/webcaetano/phaser-boilerplate) - Gulp+Webpack ES6, and many other features  
+[phaser-electron](https://github.com/webcaetano/phaser-electron) - Gulp+Webpack+Electron  
+[generator-phaser-plus](https://github.com/rblopes/generator-phaser-plus) - Yeoman Generator for bootstrapping Phaser Games  
+[responsiveTouchGameFramework](https://github.com/xem/responsiveTouchGameFramework?utm_source=gamedevjsweekly&utm_medium=email) - A tiny boilerplate for HTML5 games featuring a square, centered and responsive canvas, and unified input (mouse + touch)  
+[Phaser ES6 Starter](https://github.com/brenopolanski/phaser-es6-starter) - A template for writing Phaser Games based on ECMAScript 2015 (ES6) + Webpack + Progressive Web Apps for rapid game development.
