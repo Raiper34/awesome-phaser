@@ -12,6 +12,7 @@ Awesome phaser
 
 Plugins
 -------
+[DragonBones](https://github.com/DragonBones/DragonBonesJS/tree/master/Phaser) -   
 [Phaser i18next](https://github.com/orange-games/phaser-i18next) - Phaser plugin for translations using i18next  
 [Tilemap plus](https://github.com/colinvella/phaser-tilemap-plus) - Tilemap animations, physics, events and custom property enhancements for Tiled JSON map files  
 [Phaser Manifest Loader for Webpack](https://www.npmjs.com/package/phaser-manifest-loader) - Phaser Manifest Loader means you can load assets that have been compressed and fingerprinted by webpack as easily as this  
