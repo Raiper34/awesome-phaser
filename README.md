@@ -116,6 +116,7 @@ IDEs
 
 Boilerplates
 ---
+[Phaser Ce Angular Cli Boilerplate ](https://github.com/GrindheadGames/phaser-ce-angular-cli-boilerplate) - A simple Hello World app using Phaser-CE and Angular-CLI  
 [Phaser Boilerplate](https://github.com/DallOner/Phaser-Boilerplate) - Game Development Tool to create awesome Html5 games using Phaser Framework  
 [Phaser MVC](https://github.com/TLmaK0/phaser-mvc) - MVC for phaser  
 [Phaser Cordova Es6](https://github.com/udia-software/phaser-cordova-es6) - A Phaser, Cordova, Webpack (ES6) bootstrap/boilerplate project  
