@@ -12,6 +12,8 @@ Awesome phaser
 
 Plugins
 -------
+[Phaser 3 Animated Tiles Plugin](https://github.com/nkholski/phaser-animated-tiles) - A plugin that adds support for animated tiles to Phaser 3   
+[Generic Platformer and Phaser Bootstrap Project](https://github.com/nkholski/phaser3-es6-webpack) - Generic platformer and Phaser 3 bootstrap project  
 [DragonBones](https://github.com/DragonBones/DragonBonesJS/tree/master/Phaser) -   
 [Phaser i18next](https://github.com/orange-games/phaser-i18next) - Phaser plugin for translations using i18next  
 [Tilemap plus](https://github.com/colinvella/phaser-tilemap-plus) - Tilemap animations, physics, events and custom property enhancements for Tiled JSON map files  
@@ -116,7 +118,8 @@ IDEs
 
 Boilerplates
 ---
-[Phaser Ce Angular Cli Boilerplate ](https://github.com/GrindheadGames/phaser-ce-angular-cli-boilerplate) - A simple Hello World app using Phaser-CE and Angular-CLI  
+[Phaser3 Advanced Boilerplate](https://github.com/RiCoTeRoX/phaser3-advanced-boilerplate) - Phaser3 advanced webpack boilerplate   
+[Phaser Ce Angular Cli Boilerplate](https://github.com/GrindheadGames/phaser-ce-angular-cli-boilerplate) - A simple Hello World app using Phaser-CE and Angular-CLI  
 [Phaser Boilerplate](https://github.com/DallOner/Phaser-Boilerplate) - Game Development Tool to create awesome Html5 games using Phaser Framework  
 [Phaser MVC](https://github.com/TLmaK0/phaser-mvc) - MVC for phaser  
 [Phaser Cordova Es6](https://github.com/udia-software/phaser-cordova-es6) - A Phaser, Cordova, Webpack (ES6) bootstrap/boilerplate project  
