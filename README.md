@@ -12,6 +12,7 @@ Awesome phaser
 
 Plugins
 -------
+[Phaser 3 Interim Containers](https://github.com/ziao/phaser3-interim-containers) - Basic Interim Containers for Phaser 3.0.0 and up, until Containers officially land   
 [Phaser 3 Animated Tiles Plugin](https://github.com/nkholski/phaser-animated-tiles) - A plugin that adds support for animated tiles to Phaser 3   
 [Generic Platformer and Phaser Bootstrap Project](https://github.com/nkholski/phaser3-es6-webpack) - Generic platformer and Phaser 3 bootstrap project  
 [DragonBones](https://github.com/DragonBones/DragonBonesJS/tree/master/Phaser) -   
