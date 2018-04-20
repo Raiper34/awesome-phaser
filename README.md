@@ -12,6 +12,7 @@ Awesome phaser
 
 Plugins
 -------
+[State Transition](https://github.com/cristianbote/phaser-state-transition) - State transition plugin for Phaser.js   
 [Phaser 3 Interim Containers](https://github.com/ziao/phaser3-interim-containers) - Basic Interim Containers for Phaser 3.0.0 and up, until Containers officially land   
 [Phaser 3 Animated Tiles Plugin](https://github.com/nkholski/phaser-animated-tiles) - A plugin that adds support for animated tiles to Phaser 3   
 [Generic Platformer and Phaser Bootstrap Project](https://github.com/nkholski/phaser3-es6-webpack) - Generic platformer and Phaser 3 bootstrap project  
@@ -119,6 +120,7 @@ IDEs
 
 Boilerplates
 ---
+[Phaser3 Es6 Webpack4](https://github.com/rafaeldelboni/phaser3-es6-webpack4) - Plain webpack 4 Boilerplate with Babel, SASS and Phaser3 on board   
 [Phaser3 Advanced Boilerplate](https://github.com/RiCoTeRoX/phaser3-advanced-boilerplate) - Phaser3 advanced webpack boilerplate   
 [Phaser Ce Angular Cli Boilerplate](https://github.com/GrindheadGames/phaser-ce-angular-cli-boilerplate) - A simple Hello World app using Phaser-CE and Angular-CLI  
 [Phaser Boilerplate](https://github.com/DallOner/Phaser-Boilerplate) - Game Development Tool to create awesome Html5 games using Phaser Framework  
