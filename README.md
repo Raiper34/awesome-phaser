@@ -12,6 +12,7 @@ Awesome phaser
 
 Plugins
 -------
+[Pathbuilder](https://github.com/samid737/phaser3-plugin-pathbuilder) - Draw and edit Lines, Bezier Curves, Splines during runtime and export them for path tweens and PathFollowers   
 [State Transition](https://github.com/cristianbote/phaser-state-transition) - State transition plugin for Phaser.js   
 [Phaser 3 Interim Containers](https://github.com/ziao/phaser3-interim-containers) - Basic Interim Containers for Phaser 3.0.0 and up, until Containers officially land   
 [Phaser 3 Animated Tiles Plugin](https://github.com/nkholski/phaser-animated-tiles) - A plugin that adds support for animated tiles to Phaser 3   
@@ -89,6 +90,7 @@ Plugins
 
 Tools
 -----
+[Docker Phaser](https://github.com/chrisdlangton/docker-phaser) - Easy quick phaser environment for anywhere Docker runs   
 [Phaser particle editor](https://phaser-particle-editor.firebaseapp.com) -   
 [Kotlin Phaser](https://github.com/hiperbou/kotlin-phaser) - Use Kotlin and Phaser 2D game framework for making HTML5 games.  
 [Phaser Physics Editor](http://subefotos.esy.es/PhysicsEditor/) -   
@@ -120,6 +122,7 @@ IDEs
 
 Boilerplates
 ---
+[Phaser.io v3 Boilerplate](https://github.com/22mahmoud/Phaser.io-v3-Boilerplate?utm_source=gamedevjsweekly&utm_medium=email) - Phaser.io v3 minimal Boilerplate w/ parceljs bundler ( ES6 )   
 [Phaser3 Es6 Webpack4](https://github.com/rafaeldelboni/phaser3-es6-webpack4) - Plain webpack 4 Boilerplate with Babel, SASS and Phaser3 on board   
 [Phaser3 Advanced Boilerplate](https://github.com/RiCoTeRoX/phaser3-advanced-boilerplate) - Phaser3 advanced webpack boilerplate   
 [Phaser Ce Angular Cli Boilerplate](https://github.com/GrindheadGames/phaser-ce-angular-cli-boilerplate) - A simple Hello World app using Phaser-CE and Angular-CLI  
