@@ -12,6 +12,7 @@ Awesome phaser
 
 Plugins
 -------
+[Phaser 3 Ninepatch Plugin](https://github.com/koreezgames/phaser3-ninepatch-plugin) - Phaser3 Nine Patch plugin adds 9-slice scaling support to Phaser 3 by KoreezGames   
 [Pathbuilder](https://github.com/samid737/phaser3-plugin-pathbuilder) - Draw and edit Lines, Bezier Curves, Splines during runtime and export them for path tweens and PathFollowers   
 [State Transition](https://github.com/cristianbote/phaser-state-transition) - State transition plugin for Phaser.js   
 [Phaser 3 Interim Containers](https://github.com/ziao/phaser3-interim-containers) - Basic Interim Containers for Phaser 3.0.0 and up, until Containers officially land   
