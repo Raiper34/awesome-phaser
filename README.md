@@ -122,6 +122,7 @@ IDEs
 
 Boilerplates
 ---
+[Create Phaser App](https://github.com/simiancraft/create-phaser-app) - Phaser.io v3 Non-minimal Boilerplate and scaffold with Webpack 4, babel 7, Es6 Support, Prettier style, Deployment scripts for gh pages, webpack bundle analysis, complexity reporting, level processing for Tiled integration (tilemap extrustion and minification), State management for behaviors with Machina.js ( ES6 )   
 [Phaser.io v3 Boilerplate](https://github.com/22mahmoud/Phaser.io-v3-Boilerplate?utm_source=gamedevjsweekly&utm_medium=email) - Phaser.io v3 minimal Boilerplate w/ parceljs bundler ( ES6 )   
 [Phaser3 Es6 Webpack4](https://github.com/rafaeldelboni/phaser3-es6-webpack4) - Plain webpack 4 Boilerplate with Babel, SASS and Phaser3 on board   
 [Phaser3 Advanced Boilerplate](https://github.com/RiCoTeRoX/phaser3-advanced-boilerplate) - Phaser3 advanced webpack boilerplate   
