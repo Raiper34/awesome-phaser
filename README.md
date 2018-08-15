@@ -1,14 +1,32 @@
-<img src="http://phaser.io/images/github/div-getting-started.png" align="right">
 <img src="http://phaser.io/images/github/learn.jpg" align="right">
 
-Awesome phaser
----
+A curated list of awesome things related to [Phaser game engine](https://phaser.io/).
 
+Contents
+--------
+
+* [Tutorials](#tutorials)
+* [Video Tutorials](#video-tutorials)
 * [Plugins](#plugins)
 * [Tools](#tools)
 * [Ides](#ides)
 * [Boilerplates](#boilerplates)
 
+Tutorials
+---------
+- [How to Make a Breakout Clone in HTML5 with Phaser](http://www.lessmilk.com/tutorial/breakout-phaser)
+- [How to Make Flappy Bird in HTML5 With Phaser - Part 1](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1)
+- [How to Make Flappy Bird in HTML5 With Phaser - Part 2](http://www.lessmilk.com/tutorial/flappy-bird-phaser-2)
+- [How to Make Flappy Bird in HTML5 With Phaser - Part 3](http://www.lessmilk.com/tutorial/flappy-bird-phaser-3)
+- [Getting Started with Phaser Part 1: Web Server](http://shawnhymel.com/1148/getting-started-with-phaser-part-1-web-server/)
+- [Getting Started with Phaser Part 2: Drawing Text](http://shawnhymel.com/1190/getting-started-with-phaser-part-2-drawing-text/)
+- [Getting Started with Phaser Part 3: Sprites and Movement](http://shawnhymel.com/1220/getting-started-with-phaser-part-3-sprites-and-movement/)
+
+Video Tutorials
+---------------
+- [Phaser Beginner Tutorial](https://www.youtube.com/playlist?list=PLjyPOk-OH-AaZUSWl9EjgsvDVWhl6wAn8)
+- [Advanced Game Development with Phaser](https://www.youtube.com/playlist?list=PLnEt5PBXuAmvsj26cImNMPFyfaGh8CXZl)
+- [Phaser Game Design Tutorial Videos by Kris Occhipinti](http://html5gamedevelopment.com/phaser-game-design-tutorial-videos/)
 
 Plugins
 -------
