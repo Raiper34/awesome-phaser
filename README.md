@@ -4,11 +4,25 @@
 Awesome phaser
 ---
 
+* [platforms](#platforms)
 * [Plugins](#plugins)
 * [Tools](#tools)
 * [Ides](#ides)
 * [Boilerplates](#boilerplates)
 
+platforms
+-------
+- www.Armorgames.com
+- www.Gamejolt.com
+- www.Indiedb.com
+- www.Indiegala.com
+- www.Itch.io
+- www.Kongregate.com
+- www.Likemindedd.com
+- www.Store.Steampowered.com (cost: 99€)
+- www.Y8.com
+- developers.facebook.com/docs/games/instant-games
+- www.gamedistribution.com
 
 Plugins
 -------
