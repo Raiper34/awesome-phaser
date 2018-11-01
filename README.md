@@ -1,14 +1,28 @@
 <img src="http://phaser.io/images/github/div-getting-started.png" align="right">
 <img src="http://phaser.io/images/github/learn.jpg" align="right">
 
-Awesome phaser
+Awesome phaser [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ---
 
+* [platforms](#platforms)
 * [Plugins](#plugins)
 * [Tools](#tools)
 * [Ides](#ides)
 * [Boilerplates](#boilerplates)
 
+platforms
+-------
+- www.Armorgames.com
+- www.Gamejolt.com
+- www.Indiedb.com
+- www.Indiegala.com
+- www.Itch.io
+- www.Kongregate.com
+- www.Likemindedd.com
+- www.Store.Steampowered.com (cost: 99€)
+- www.Y8.com
+- developers.facebook.com/docs/games/instant-games
+- www.gamedistribution.com
 
 Plugins
 -------
@@ -141,4 +155,7 @@ Boilerplates
 [phaser-electron](https://github.com/webcaetano/phaser-electron) - Gulp+Webpack+Electron  
 [generator-phaser-plus](https://github.com/rblopes/generator-phaser-plus) - Yeoman Generator for bootstrapping Phaser Games  
 [responsiveTouchGameFramework](https://github.com/xem/responsiveTouchGameFramework?utm_source=gamedevjsweekly&utm_medium=email) - A tiny boilerplate for HTML5 games featuring a square, centered and responsive canvas, and unified input (mouse + touch)  
+
 [Phaser ES6 Starter](https://github.com/brenopolanski/phaser-es6-starter) - A template for writing Phaser Games based on ECMAScript 2015 (ES6) + Webpack + Progressive Web Apps for rapid game development.
+
+[Yet Another Phaser Boilerplate](https://github.com/n3tn0de/yapb) - A very minimalistic boilerplate to kickstart your Phaser 3 project (Babel 7 + Webpack 4)
