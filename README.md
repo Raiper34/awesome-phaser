@@ -159,4 +159,4 @@ Boilerplates
 
 [Phaser ES6 Starter](https://github.com/brenopolanski/phaser-es6-starter) - A template for writing Phaser Games based on ECMAScript 2015 (ES6) + Webpack + Progressive Web Apps for rapid game development.
 
-[Yet Another BoilerPlate](https://github.com/n3tn0de/yapb) As its name says it's another boilerplate
+[Yet Another Phaser Boilerplate](https://github.com/n3tn0de/yapb) - A very minimalistic boilerplate to kickstart your Phaser 3 project (Babel 7 + Webpack 4)
