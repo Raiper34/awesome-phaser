@@ -23,6 +23,7 @@ platforms
 - www.Y8.com
 - developers.facebook.com/docs/games/instant-games
 - www.gamedistribution.com
+- www.lagged.com
 
 Plugins
 -------
