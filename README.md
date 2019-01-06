@@ -141,5 +141,6 @@ Boilerplates
 [phaser-electron](https://github.com/webcaetano/phaser-electron) - Gulp+Webpack+Electron  
 [generator-phaser-plus](https://github.com/rblopes/generator-phaser-plus) - Yeoman Generator for bootstrapping Phaser Games  
 [responsiveTouchGameFramework](https://github.com/xem/responsiveTouchGameFramework?utm_source=gamedevjsweekly&utm_medium=email) - A tiny boilerplate for HTML5 games featuring a square, centered and responsive canvas, and unified input (mouse + touch)  
-[Phaser ES6 Starter](https://github.com/brenopolanski/phaser-es6-starter) - A template for writing Phaser Games based on ECMAScript 2015 (ES6) + Webpack + Progressive Web Apps for rapid game development.
-[Phaser with Parcel](https://github.com/samme/phaser-parcel) - Simple 4-scene ES6 template with hot reloading.
+[Phaser ES6 Starter](https://github.com/brenopolanski/phaser-es6-starter) - A template for writing Phaser Games based on ECMAScript 2015 (ES6) + Webpack + Progressive Web Apps for rapid game development.  
+[Phaser 3 with Parcel](https://github.com/samme/phaser-parcel) - Simple 4-scene ES6 template with hot reloading.  
+[Phaser CE with TypeScript and Parcel](https://github.com/Cerlancism/Phaser-CE-TypeScript-ParcelJS) - Phaser CE with TypeScript, Babel and Parcel, with wide browser compatibility and offline support.
