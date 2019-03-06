@@ -27,7 +27,7 @@ platforms
 
 Facebook
 -------
-Sites to promote your games:
+
 http://www.fb.com/groups/ggdevs
 
 http://www.fb.com/groups/unity3dellinikikoinotita
