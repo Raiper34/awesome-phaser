@@ -25,6 +25,29 @@ platforms
 - www.gamedistribution.com
 - www.lagged.com
 
+Facebook
+-------
+Sites to promote your games:
+http://www.fb.com/groups/ggdevs
+
+http://www.fb.com/groups/unity3dellinikikoinotita
+
+http://www.fb.com/groups/ThePCGamingMasterRace
+
+http://www.fb.com/groups/1655064838043362
+
+http://www.fb.com/groups/VideoGamePromo
+
+http://www.fb.com/groups/IndieGamingDevelopers
+
+http://www.fb.com/groups/156412141097759
+
+http://www.fb.com/groups/igc.dev
+
+http://www.fb.com/groups/indiegamedevelopersunshine
+
+http://www.fb.com/groups/1549224718628969
+
 Plugins
 -------
 [Phaser 3 Ninepatch Plugin](https://github.com/koreezgames/phaser3-ninepatch-plugin) - Phaser3 Nine Patch plugin adds 9-slice scaling support to Phaser 3 by KoreezGames   
