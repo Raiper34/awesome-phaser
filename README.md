@@ -5,6 +5,8 @@ Awesome phaser [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 ---
 
 * [platforms](#platforms)
+* [Assets](#assets)
+* [Discussion groups](#facebook)
 * [Plugins](#plugins)
 * [Tools](#tools)
 * [Ides](#ides)
@@ -24,6 +26,13 @@ platforms
 - developers.facebook.com/docs/games/instant-games
 - www.gamedistribution.com
 - www.lagged.com
+
+Assets
+------
+- https://opengameart.org/
+- https://itch.io/game-assets
+- http://spriters-resource.com/
+
 
 Facebook
 -------
