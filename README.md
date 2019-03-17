@@ -197,3 +197,6 @@ Boilerplates
 [Phaser 3 - Starter Template with ES6 and webpack](https://github.com/yandeu/phaser-project-template-es6#readme)
 
 [Phaser 3 - Starter Template with TypeScript and webpack](https://github.com/yandeu/phaser-project-template)
+
+Phaser template - TypeScript + WebPack with some buttons and preloader 
+https://github.com/MartinKral/phaser-template
