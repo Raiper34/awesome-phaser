@@ -124,11 +124,10 @@ Plugins
   - https://github.com/luckylooke/phaser-islandjs-plugin Phaser.io plugin for procedural generation and rendering island maps based on island.js  
   - https://github.com/jdnichollsc/Phaser-Kinetic-Scrolling-Plugin Kinetic Scrolling plugin for Canvas using Phaser Framework  
   - https://github.com/Ezelia/EZGUI EZGUI The missing GUI for Pixi.js and Phaser.io  
-
 - Phaser 3
-- (https://github.com/ziao/phaser3-interim-containers) Basic Interim Containers for Phaser 3.0.0 and up, until Containers officially land   
-- https://github.com/nkholski/phaser-animated-tiles A plugin that adds support for animated tiles to Phaser 3   
-- https://github.com/nkholski/phaser3-es6-webpack Generic platformer and Phaser 3 bootstrap project  
+  - (https://github.com/ziao/phaser3-interim-containers) Basic Interim Containers for Phaser 3.0.0 and up, until Containers officially land   
+  - https://github.com/nkholski/phaser-animated-tiles A plugin that adds support for animated tiles to Phaser 3   
+  - https://github.com/nkholski/phaser3-es6-webpack Generic platformer and Phaser 3 bootstrap project  
 
 Tools
 ----
