@@ -52,13 +52,9 @@ Facebook
 Plugins
 ----
 - Phaser 2/CE
-  - https://github.com/koreezgames/phaser3-ninepatch-plugin 
-  
-  Phaser3 Nine Patch plugin adds 9-slice scaling support to Phaser 3 by KoreezGames   
-  - https://github.com/samid737/phaser3-plugin-pathbuilder
-  Pathbuilder, Draw and edit Lines, Bezier Curves, Splines during runtime and export them for path tweens and PathFollowers   
-  - https://github.com/cristianbote/phaser-state-transition
-  State transition plugin for Phaser.js   
+  - https://github.com/koreezgames/phaser3-ninepatch-plugin Phaser3 Nine Patch plugin adds 9-slice scaling support to Phaser 3 by KoreezGames   
+  - https://github.com/samid737/phaser3-plugin-pathbuilder Pathbuilder, Draw and edit Lines, Bezier Curves, Splines during runtime and export them for path tweens and PathFollowers   
+  - https://github.com/cristianbote/phaser-state-transition State transition plugin for Phaser.js   
   - https://github.com/DragonBones/DragonBonesJS/tree/master/Phaser   
   - https://github.com/orange-games/phaser-i18next
   Phaser plugin for translations using i18next  
@@ -172,27 +168,27 @@ Boilerplates
 ----
 - Phaser 2/CE
   - https://github.com/MartinKral/phaser-template Phaser template TypeScript + WebPack with some buttons and preloader 
-  [Orange Games Boilerplate](https://github.com/orange-games/phaser-ts-boilerplate) The boilerplate we use internally at Orange Games  
-  - [Phaser Starter](https://github.com/oliverbenns/phaser-starter) Simple starter project to get a Phaser game environment up and running with ease. With Webpack, ES6 transpiling, page reloading and Github page publishing.  
-  - [Phaser Webpack Loader](https://github.com/goldfire/phaser-webpack-loader) Asset loader for Phaser + Webpack.  
-  - [brunch-phaser](https://github.com/samme/brunch-phaser) A [Brunch](http://brunch.io) skeleton for making games with Phaser. You can use CoffeeScript, ES6, TypeScript, or plain JavaScript.  
-  - [phaser-runtime](https://github.com/samuelnovaes/phaser-runtime?utm_source=gamedevjsweekly&utm_medium=email) Run Phaser games on desktop  
-  - [Phaser NPM Webpack TypeScript Starter Project](https://github.com/rroylance/phaser-npm-webpack-typescript-starter-project) Project to get you started with your Phaser (using the npm module) game using Typescript and Webpack for building!  
-  - [phaser-boilerplate](https://github.com/webcaetano/phaser-boilerplate) - Gulp+Webpack ES6, and many other features  
-  - [phaser-electron](https://github.com/webcaetano/phaser-electron) - Gulp+Webpack+Electron  
-  - [generator-phaser-plus](https://github.com/rblopes/generator-phaser-plus) - Yeoman Generator for bootstrapping Phaser Games  
-  - [responsiveTouchGameFramework](https://github.com/xem/responsiveTouchGameFramework?utm_source=gamedevjsweekly&utm_medium=email) - A tiny boilerplate for HTML5 games featuring a square, centered and responsive canvas, and unified input (mouse + touch)  
-  - [Phaser Ce Angular Cli Boilerplate](https://github.com/GrindheadGames/phaser-ce-angular-cli-boilerplate) - A simple Hello World app using Phaser-CE and Angular-CLI  
-  - [Phaser Boilerplate](https://github.com/DallOner/Phaser-Boilerplate) - Game Development Tool to create awesome Html5 games using Phaser Framework  
+  - https://github.com/orange-games/phaser-ts-boilerplate The boilerplate we use internally at Orange Games  
+  - https://github.com/oliverbenns/phaser-starter Simple starter project to get a Phaser game environment up and running with ease. With Webpack, ES6 transpiling, page reloading and Github page publishing.  
+  - https://github.com/goldfire/phaser-webpack-loader Asset loader for Phaser + Webpack.  
+  - https://github.com/samme/brunch-phaser A [Brunch](http://brunch.io) skeleton for making games with Phaser. You can use CoffeeScript, ES6, TypeScript, or plain JavaScript.  
+  - https://github.com/samuelnovaes/phaser-runtime?utm_source=gamedevjsweekly&utm_medium=email Run Phaser games on desktop  
+  - https://github.com/rroylance/phaser-npm-webpack-typescript-starter-project Project to get you started with your Phaser (using the npm module) game using Typescript and Webpack for building!  
+  - https://github.com/webcaetano/phaser-boilerplate Gulp+Webpack ES6, and many other features  
+  - https://github.com/webcaetano/phaser-electron Gulp+Webpack+Electron  
+  - https://github.com/rblopes/generator-phaser-plus Yeoman Generator for bootstrapping Phaser Games  
+  - https://github.com/xem/responsiveTouchGameFramework?utm_source=gamedevjsweekly&utm_medium=email A tiny boilerplate for HTML5 games featuring a square, centered and responsive canvas, and unified input (mouse + touch)  
+  - https://github.com/GrindheadGames/phaser-ce-angular-cli-boilerplate A simple Hello World app using Phaser-CE and Angular-CLI  
+  - https://github.com/DallOner/Phaser-Boilerplate Game Development Tool to create awesome Html5 games using Phaser Framework  
 - Phaser 3
-  - [Create Phaser App](https://github.com/simiancraft/create-phaser-app) - Phaser.io v3 Non-minimal Boilerplate and scaffold with Webpack 4, babel 7, Es6 Support, Prettier style, Deployment scripts for gh pages, webpack bundle analysis, complexity reporting, level processing for Tiled integration (tilemap extrustion and minification), State management for behaviors with Machina.js ( ES6 )   
-  - [Phaser.io v3 Boilerplate](https://github.com/22mahmoud/Phaser.io-v3-Boilerplate?utm_source=gamedevjsweekly&utm_medium=email) - Phaser.io v3 minimal Boilerplate w/ parceljs bundler ( ES6 )   
-  - [Phaser3 Es6 Webpack4](https://github.com/rafaeldelboni/phaser3-es6-webpack4) - Plain webpack 4 Boilerplate with Babel, SASS and Phaser3 on board   
-  - [Phaser3 Advanced Boilerplate](https://github.com/RiCoTeRoX/phaser3-advanced-boilerplate) - Phaser3 advanced webpack boilerplate   
-  - [Phaser MVC](https://github.com/TLmaK0/phaser-mvc) - MVC for phaser  
-  - [Phaser Cordova Es6](https://github.com/udia-software/phaser-cordova-es6) - A Phaser, Cordova, Webpack (ES6) bootstrap/boilerplate project  
-  - [Phaser 3 + ES6 + Webpack](https://github.com/nkholski/phaser3-es6-webpack) - This is based on the excellent Bootstrap project for Phaser 2 "Phaser + ES6 + Webpack"  
-  - [Phaser ES6 Starter](https://github.com/brenopolanski/phaser-es6-starter) - A template for writing Phaser Games based on ECMAScript 2015 (ES6) + Webpack + Progressive Web Apps for rapid game development.
-  - [Yet Another Phaser Boilerplate](https://github.com/n3tn0de/yapb) - A very minimalistic boilerplate to kickstart your Phaser 3 project (Babel 7 + Webpack 4)
-  - [Phaser 3 - Starter Template with ES6 and webpack](https://github.com/yandeu/phaser-project-template-es6#readme)
-  - [Phaser 3 - Starter Template with TypeScript and webpack](https://github.com/yandeu/phaser-project-template)
+  - https://github.com/simiancraft/create-phaser-app Phaser.io v3 Non-minimal Boilerplate and scaffold with Webpack 4, babel 7, Es6 Support, Prettier style, Deployment scripts for gh pages, webpack bundle analysis, complexity reporting, level processing for Tiled integration (tilemap extrustion and minification), State management for behaviors with Machina.js ( ES6 )   
+  - https://github.com/22mahmoud/Phaser.io-v3-Boilerplate?utm_source=gamedevjsweekly&utm_medium=email Phaser.io v3 minimal Boilerplate w/ parceljs bundler ( ES6 )   
+  - https://github.com/rafaeldelboni/phaser3-es6-webpack4 Plain webpack 4 Boilerplate with Babel, SASS and Phaser3 on board   
+  - https://github.com/RiCoTeRoX/phaser3-advanced-boilerplate Phaser3 advanced webpack boilerplate   
+  - https://github.com/TLmaK0/phaser-mvc MVC for phaser  
+  - https://github.com/udia-software/phaser-cordova-es6 A Phaser, Cordova, Webpack (ES6) bootstrap/boilerplate project  
+  - https://github.com/nkholski/phaser3-es6-webpack This is based on the excellent Bootstrap project for Phaser 2 "Phaser + ES6 + Webpack"  
+  - https://github.com/brenopolanski/phaser-es6-starter A template for writing Phaser Games based on ECMAScript 2015 (ES6) + Webpack + Progressive Web Apps for rapid game development.
+  - https://github.com/n3tn0de/yapb A very minimalistic boilerplate to kickstart your Phaser 3 project (Babel 7 + Webpack 4)
+  - https://github.com/yandeu/phaser-project-template-es6#readme
+  - https://github.com/yandeu/phaser-project-template
