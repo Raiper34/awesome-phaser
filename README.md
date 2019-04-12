@@ -8,9 +8,9 @@ Awesome phaser
 * [Platforms](#platforms)
 * [Assets](#assets)
 * [Discussion groups](#facebook)
-* [Plugins](#plugins)
+* [IDE](#ides)
 * [Tools](#tools)
-* [Ides](#ides)
+* [Plugins](#plugins)
 * [Boilerplates](#boilerplates)
 
 Platforms
@@ -49,6 +49,39 @@ Facebook
 - http://www.fb.com/groups/igc.dev
 - http://www.fb.com/groups/indiegamedevelopersunshine
 - http://www.fb.com/groups/1549224718628969
+
+
+IDEs
+----
+[Phaser editor](https://gumroad.com/l/phasereditor) - Phaser Editor is a new editor to develop HTML5 2D games using the Phaser framework  
+[Abra](https://aurifexlabs.com/) - Abra is a web tool for building games with Phaser  
+[Mighty editor](http://mightyfingers.com/) - Web based open source HTML5 game editor, based on Phaser.io game engine 
+
+Tools
+----
+- https://github.com/chrisdlangton/docker-phaser Easy quick phaser environment for anywhere Docker runs   
+- https://phaser-particle-editor.firebaseapp.com Phaser particle editor   
+- https://github.com/hiperbou/kotlin-phaser Use Kotlin and Phaser 2D game framework for making HTML5 games.  
+- http://subefotos.esy.es/PhysicsEditor Phaser Physics Editor   
+- https://hub.docker.com/r/nidup/phaser Docker Image   
+- https://github.com/RobotlegsJS/RobotlegsJS-Phaser RobotlegsJS framework integration with Phaser.  
+- https://neutrinoparticles.com/ Particles Editor with export to JavaScript and C# source code.  
+- https://github.com/develephant/phaser-node-kit Rapid Game Development with PhaserJS and Node for Modern Browsers.  
+- https://github.com/nerdenough/phaser-cli A simple CLI for scaffolding Phaser projects.  
+- https://loonride.com/physics Edit and export physics bodies for Phaser with ease  
+- https://github.com/phreaknation/system.plugin This project is setup to help kickstart building Phaser.io plugins.  
+- https://github.com/lvcabral/PhaserSpriteSheetUnpacker Tool to unpack frames from a Phaser Sprite Sheet  
+- https://github.com/hilts-vaughan/grunt-phaser-assetpack-generator This tool helps you generate an asset pack from your filesystem directory, so that you can easily preload all your assets required for your Phaser game.  
+- https://github.com/mmcs85/PFA-Exporter Phaser Flash Asset Exporter  
+- https://github.com/boniatillo-com/PhaserSublimePackage Sublime Text packages for Phaser development  
+- https://www.codeandweb.com/texturepacker/download   
+- http://www.html5gamedevs.com/applications/core/interface/file/attachment.php?id=5935)  
+- https://github.com/ozankasikci/generator-phaser-coffeescript-gulp A yeoman generator for developing games with Phaser framework using coffeescript and gulp. Browserifies, coffeeifies and live reloads using browser-sync.  
+- https://www.npmjs.com/package/phase-2-e End to End testing framework for Phaser. Backed by Nightwatch.  
+- https://www.npmjs.com/package/tern-phaser tern-phaser is a plugin which adds support for Phaser to the JavaScript code intelligence system Tern  
+- https://github.com/gamefriends/MiaPhaser Flash To Phaser  
+- https://github.com/dparis/phzr A ClojureScript wrapper for the Phaser HTML5 game framework  
+- http://phaserchains.boniatillo.com/ Alternative documentation browser for   
 
 Plugins
 ----
@@ -132,38 +165,6 @@ Plugins
   - https://github.com/ziao/phaser3-interim-containers Basic Interim Containers for Phaser 3.0.0 and up, until Containers officially land   
   - https://github.com/nkholski/phaser-animated-tiles A plugin that adds support for animated tiles to Phaser 3   
   - https://github.com/nkholski/phaser3-es6-webpack Generic platformer and Phaser 3 bootstrap project  
-
-Tools
-----
-- https://github.com/chrisdlangton/docker-phaser Easy quick phaser environment for anywhere Docker runs   
-- https://phaser-particle-editor.firebaseapp.com Phaser particle editor   
-- https://github.com/hiperbou/kotlin-phaser Use Kotlin and Phaser 2D game framework for making HTML5 games.  
-- http://subefotos.esy.es/PhysicsEditor Phaser Physics Editor   
-- https://hub.docker.com/r/nidup/phaser Docker Image   
-- https://github.com/RobotlegsJS/RobotlegsJS-Phaser RobotlegsJS framework integration with Phaser.  
-- https://neutrinoparticles.com/ Particles Editor with export to JavaScript and C# source code.  
-- https://github.com/develephant/phaser-node-kit Rapid Game Development with PhaserJS and Node for Modern Browsers.  
-- https://github.com/nerdenough/phaser-cli A simple CLI for scaffolding Phaser projects.  
-- https://loonride.com/physics Edit and export physics bodies for Phaser with ease  
-- https://github.com/phreaknation/system.plugin This project is setup to help kickstart building Phaser.io plugins.  
-- https://github.com/lvcabral/PhaserSpriteSheetUnpacker Tool to unpack frames from a Phaser Sprite Sheet  
-- https://github.com/hilts-vaughan/grunt-phaser-assetpack-generator This tool helps you generate an asset pack from your filesystem directory, so that you can easily preload all your assets required for your Phaser game.  
-- https://github.com/mmcs85/PFA-Exporter Phaser Flash Asset Exporter  
-- https://github.com/boniatillo-com/PhaserSublimePackage Sublime Text packages for Phaser development  
-- https://www.codeandweb.com/texturepacker/download   
-- http://www.html5gamedevs.com/applications/core/interface/file/attachment.php?id=5935)  
-- https://github.com/ozankasikci/generator-phaser-coffeescript-gulp A yeoman generator for developing games with Phaser framework using coffeescript and gulp. Browserifies, coffeeifies and live reloads using browser-sync.  
-- https://www.npmjs.com/package/phase-2-e End to End testing framework for Phaser. Backed by Nightwatch.  
-- https://www.npmjs.com/package/tern-phaser tern-phaser is a plugin which adds support for Phaser to the JavaScript code intelligence system Tern  
-- https://github.com/gamefriends/MiaPhaser Flash To Phaser  
-- https://github.com/dparis/phzr A ClojureScript wrapper for the Phaser HTML5 game framework  
-- http://phaserchains.boniatillo.com/ Alternative documentation browser for  
-
-IDEs
-----
-[Phaser editor](https://gumroad.com/l/phasereditor) - Phaser Editor is a new editor to develop HTML5 2D games using the Phaser framework  
-[Abra](https://aurifexlabs.com/) - Abra is a web tool for building games with Phaser  
-[Mighty editor](http://mightyfingers.com/) - Web based open source HTML5 game editor, based on Phaser.io game engine  
 
 Boilerplates
 ----
