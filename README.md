@@ -52,7 +52,8 @@ Facebook
 Plugins
 ----
 - Phaser 2/CE
-  - https://github.com/koreezgames/phaser3-ninepatch-plugin Phaser3 Nine Patch plugin adds 9-slice scaling support to Phaser 3 by KoreezGames   
+  - https://github.com/koreezgames/phaser3-ninepatch-plugin 
+  Phaser3 Nine Patch plugin adds 9-slice scaling support to Phaser 3 by KoreezGames   
   - https://github.com/samid737/phaser3-plugin-pathbuilder Pathbuilder, Draw and edit Lines, Bezier Curves, Splines during runtime and export them for path tweens and PathFollowers   
   - https://github.com/cristianbote/phaser-state-transition State transition plugin for Phaser.js   
   - https://github.com/DragonBones/DragonBonesJS/tree/master/Phaser   
