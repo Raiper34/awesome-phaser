@@ -34,6 +34,7 @@ Assets
 - https://itch.io/game-assets
 - http://spriters-resource.com/
 - https://craftpix.net
+- https://www.kenney.nl/
 
 Facebook
 ----
