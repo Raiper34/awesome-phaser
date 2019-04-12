@@ -39,25 +39,16 @@ Assets
 Facebook
 -------
 
-http://www.fb.com/groups/ggdevs
-
-http://www.fb.com/groups/unity3dellinikikoinotita
-
-http://www.fb.com/groups/ThePCGamingMasterRace
-
-http://www.fb.com/groups/1655064838043362
-
-http://www.fb.com/groups/VideoGamePromo
-
-http://www.fb.com/groups/IndieGamingDevelopers
-
-http://www.fb.com/groups/156412141097759
-
-http://www.fb.com/groups/igc.dev
-
-http://www.fb.com/groups/indiegamedevelopersunshine
-
-http://www.fb.com/groups/1549224718628969
+- http://www.fb.com/groups/ggdevs
+- http://www.fb.com/groups/unity3dellinikikoinotita
+- http://www.fb.com/groups/ThePCGamingMasterRace
+- http://www.fb.com/groups/1655064838043362
+- http://www.fb.com/groups/VideoGamePromo
+- http://www.fb.com/groups/IndieGamingDevelopers
+- http://www.fb.com/groups/156412141097759
+- http://www.fb.com/groups/igc.dev
+- http://www.fb.com/groups/indiegamedevelopersunshine
+- http://www.fb.com/groups/1549224718628969
 
 Plugins
 -------
