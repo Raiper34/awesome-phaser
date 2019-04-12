@@ -5,7 +5,7 @@
 Awesome phaser
 ---
 
-* [platforms](#platforms)
+* [Platforms](#platforms)
 * [Assets](#assets)
 * [Discussion groups](#facebook)
 * [Plugins](#plugins)
@@ -13,7 +13,7 @@ Awesome phaser
 * [Ides](#ides)
 * [Boilerplates](#boilerplates)
 
-platforms
+Platforms
 -------
 - www.Armorgames.com
 - www.Gamejolt.com
