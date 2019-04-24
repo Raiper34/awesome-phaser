@@ -37,6 +37,7 @@ Assets
 - http://spriters-resource.com/
 - https://craftpix.net
 - https://www.kenney.nl/
+- https://www.freesfx.co.uk/
 
 Forums
 ----
