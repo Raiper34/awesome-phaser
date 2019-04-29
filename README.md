@@ -143,4 +143,6 @@ Boilerplates
 [responsiveTouchGameFramework](https://github.com/xem/responsiveTouchGameFramework?utm_source=gamedevjsweekly&utm_medium=email) - A tiny boilerplate for HTML5 games featuring a square, centered and responsive canvas, and unified input (mouse + touch)  
 [Phaser ES6 Starter](https://github.com/brenopolanski/phaser-es6-starter) - A template for writing Phaser Games based on ECMAScript 2015 (ES6) + Webpack + Progressive Web Apps for rapid game development.  
 [Phaser 3 with Parcel](https://github.com/samme/phaser-parcel) - Simple 4-scene ES6 template with hot reloading.  
-[Phaser CE with TypeScript and Parcel](https://github.com/Cerlancism/Phaser-CE-TypeScript-ParcelJS) - Phaser CE with TypeScript, Babel and Parcel, with wide browser compatibility and offline support.
+[Phaser CE with TypeScript and Parcel](https://github.com/Cerlancism/Phaser-CE-TypeScript-ParcelJS) - Phaser CE with TypeScript, Babel and Parcel, with wide browser compatibility and offline support.  
+[Phaser 3 Starter Template + TypeScript](https://github.com/yandeu/phaser-project-template#readme) - Phaser 3 Starter Template with TypeScript, Webpack, ESNext, PWA, Code Splitting, Live-Reload and more.  
+[Phaser 3 Starter Template + ES6](https://github.com/yandeu/phaser-project-template-es6#readme) - Phaser 3 Starter Template with ES6, Webpack, ESNext, PWA, Code Splitting, Live-Reload and more.
