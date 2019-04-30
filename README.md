@@ -18,8 +18,9 @@ Awesome phaser
 
 Jams
 ----
-- http://ldjam.com/
 - https://itch.io/jams
+- http://ldjam.com/
+- https://globalgamejam.org/
 
 Platforms
 ----
