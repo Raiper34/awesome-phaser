@@ -5,6 +5,7 @@
 Awesome phaser
 ---
 
+* [Game Jams](#jams)
 * [Platforms](#platforms)
 * [Assets](#assets)
 * [Discussion groups](#forums)
@@ -14,6 +15,11 @@ Awesome phaser
 * [Tools](#tools)
 * [Plugins](#plugins)
 * [Boilerplates](#boilerplates)
+
+Jams
+----
+- http://ldjam.com/
+- https://itch.io/jams
 
 Platforms
 ----
