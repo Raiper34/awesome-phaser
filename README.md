@@ -21,6 +21,7 @@ Jams
 - https://itch.io/jams
 - http://ldjam.com/
 - https://globalgamejam.org/
+- http://js13kgames.com/
 
 Platforms
 ----
