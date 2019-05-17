@@ -207,6 +207,7 @@ Boilerplates
   - https://github.com/xem/responsiveTouchGameFramework?utm_source=gamedevjsweekly&utm_medium=email A tiny boilerplate for HTML5 games featuring a square, centered and responsive canvas, and unified input (mouse + touch)  
   - https://github.com/GrindheadGames/phaser-ce-angular-cli-boilerplate A simple Hello World app using Phaser-CE and Angular-CLI  
   - https://github.com/DallOner/Phaser-Boilerplate Game Development Tool to create awesome Html5 games using Phaser Framework  
+  - https://github.com/BdR76/phaserlevelselect Level select example template, also saves progress to localstorage  
 - Phaser 3
   - https://github.com/simiancraft/create-phaser-app Phaser.io v3 Non-minimal Boilerplate and scaffold with Webpack 4, babel 7, Es6 Support, Prettier style, Deployment scripts for gh pages, webpack bundle analysis, complexity reporting, level processing for Tiled integration (tilemap extrustion and minification), State management for behaviors with Machina.js ( ES6 )   
   - https://github.com/22mahmoud/Phaser.io-v3-Boilerplate?utm_source=gamedevjsweekly&utm_medium=email Phaser.io v3 minimal Boilerplate w/ parceljs bundler ( ES6 )   
@@ -219,3 +220,4 @@ Boilerplates
   - https://github.com/n3tn0de/yapb A very minimalistic boilerplate to kickstart your Phaser 3 project (Babel 7 + Webpack 4)
   - https://github.com/yandeu/phaser-project-template-es6#readme
   - https://github.com/yandeu/phaser-project-template
+  - https://github.com/BdR76/Phaser3-example-game Phaser3 game example template using scenes, preloader, loading bar, buttons etc.  
