@@ -1,11 +1,15 @@
 This guide is for new and old members and to always remember how all this fun have been made, so happy coding everyone ;)
 
-Phaser Framework is originally a week-end free time project on GitHub https://github.blog/2016-04-12-meet-richard-davey-creator-of-phaser/
+Phaser Framework is originally a week-end free time project on GitHub 
+- https://github.blog/2016-04-12-meet-richard-davey-creator-of-phaser/
 
 IMPORTANT !
-The answers and chat are not here to deface the work of Photonstorm so don’t miss to call the support for more complicated questions https://phaser.io/shop/premium-support
+The answers and chat are not here to deface the work of Photonstorm so don’t miss to call the support for more complicated questions 
+- https://phaser.io/shop/premium-support
 
-There is a lot of documentation around the web starting by https://gumroad.com/photonstorm
+There is a lot of documentation around the web starting by 
+- https://gumroad.com/photonstorm
+
 without missing
 - https://gamedevacademy.org/
 - https://www.emanueleferonato.com/category/phaser/
@@ -33,7 +37,8 @@ Ask more elaborated questions on the forums
 Q&A
 - https://github.com/samme/phaser3-faq
 
-Samme has also some templates I use everytime to answer questions on the forum or stackoverflow https://github.com/samme/phaser3-faq
+Samme has also some templates I use everytime to answer questions on the forum or stackoverflow 
+- https://github.com/samme/phaser3-faq
 
 To finish with Awesome Phaser
 Please PR with your plugins and boilerplates on https://github.com/nazimboudeffa/awesome-phaser
