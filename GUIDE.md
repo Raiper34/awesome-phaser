@@ -7,40 +7,31 @@ The answers and chat are not here to deface the work of Photonstorm so don’t m
 
 There is a lot of documentation around the web starting by https://gumroad.com/photonstorm
 without missing
-
-https://gamedevacademy.org/
-
-https://www.emanueleferonato.com/category/phaser/
+- https://gamedevacademy.org/
+- https://www.emanueleferonato.com/category/phaser/
 
 More books and tutorials are found on the site http://phaser.io
 
 On twitter you can just ask @phaser_ instead of #phaserjs that have been trolled by russians, yeah russians because you are not alone :D
 
 To start coding just look at the examples or follow a tutorial as mentioned before
-
-Phaser 2 (CE) http://phaser.io/examples
-
-Phaser 3 http://labs.phaser.io/
+- Phaser 2 (CE) http://phaser.io/examples
+- Phaser 3 http://labs.phaser.io/
 
 The newsletter is posted every week on monday and is the topic of the slack #general channel
 
 https://phaser.io/community/newsletter
 
 Join the slack or discord to chat
-
-    - https://phaserjs.slack.com
-    
-    - https://discord.gg/gnmn6wA
+- https://phaserjs.slack.com
+- https://discord.gg/gnmn6wA
 
 Ask more elaborated questions on the forums
-
-    - http://phaser.discourse.group/
-    
-    - https://stackoverflow.com/questions/tagged/phaser-framework
+- http://phaser.discourse.group/
+- https://stackoverflow.com/questions/tagged/phaser-framework
 
 Q&A
-
-https://github.com/samme/phaser3-faq
+- https://github.com/samme/phaser3-faq
 
 Samme has also some templates I use everytime to answer questions on the forum or stackoverflow https://github.com/samme/phaser3-faq
 
