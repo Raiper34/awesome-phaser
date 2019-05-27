@@ -33,6 +33,8 @@ Join the slack or discord to chat
 Ask more elaborated questions on the forums
 - http://phaser.discourse.group/
 - https://stackoverflow.com/questions/tagged/phaser-framework
+  - On SO please use the hashtag `phaser-framework` instead of `phaser` in this cas you have the ability to edit the tag you can do a tag edit and say ` Please use phaser-framework tag instead of phaser tag which is another software`
+- Pardaoxaly on the stackexchange network called Game Developpement the right tag is `phaser` because there is no ambiguity
 
 Q&A
 - https://github.com/samme/phaser3-faq
