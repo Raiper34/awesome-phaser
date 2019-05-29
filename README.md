@@ -46,6 +46,7 @@ Assets
 - https://craftpix.net
 - https://www.kenney.nl/
 - https://www.freesfx.co.uk/
+- https://gameartpartners.com/
 
 Forums
 ----
