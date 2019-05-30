@@ -47,6 +47,7 @@ Assets
 - https://www.kenney.nl/
 - https://www.freesfx.co.uk/
 - https://gameartpartners.com/
+- http://pixeljoint.com/
 
 Forums
 ----
