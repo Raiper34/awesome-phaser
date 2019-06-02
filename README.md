@@ -20,7 +20,7 @@ Jams
 ----
 - GitHub Game OFF
   - https://github.com/topics/githubgameoff
-  - https://twitter.com/githubgameoff
+  - https://twitter.com/hashtag/GitHubGameOff
   - https://itch.io/games/tag-githubgameoff
 - https://itch.io/jams
 - http://ldjam.com/
