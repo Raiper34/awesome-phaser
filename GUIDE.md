@@ -42,5 +42,7 @@ Q&A
 Samme has also some templates I use everytime to answer questions on the forum or stackoverflow 
 - https://github.com/samme/phaser3-faq
 
+If you want to challenge your self and skills with other coders for fun still on Phaser try GitHubGameOff that organised every year
+
 To finish with Awesome Phaser
 Please PR with your plugins and boilerplates on https://github.com/nazimboudeffa/awesome-phaser
