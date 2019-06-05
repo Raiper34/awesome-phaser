@@ -106,7 +106,8 @@ Plugins
 - [Nine patch](https://github.com/netcell/nine-patch-phaser-plugin) - A Nine Patch Plugin for Phaser  
 - [Islandjs](https://github.com/luckylooke/phaser-islandjs-plugin) - Phaser.io plugin for procedural generation and rendering island maps based on island.js  
 - [Kinetic scrolling plugin](https://github.com/jdnichollsc/Phaser-Kinetic-Scrolling-Plugin) - Kinetic Scrolling plugin for Canvas using Phaser Framework  
-- [EZGUI](https://github.com/Ezelia/EZGUI) - EZGUI - The missing GUI for Pixi.js and Phaser.io  
+- [EZGUI](https://github.com/Ezelia/EZGUI) - EZGUI - The missing GUI for Pixi.js and Phaser.io 
+- [IonPhaser](https://github.com/proyecto26/ion-phaser): A web component to integrate Phaser Framework with Angular, React, Vue, etc 🎮
 
 Tools
 -----
