@@ -1,4 +1,4 @@
-This guide is for new and old members and to always remember how all this fun have been made, so happy coding everyone ;)
+This guide is for new and old members and to always remember how all this fun have been made, so happy coding everyone :wink:
 
 Phaser Framework is originally a week-end free time project on GitHub 
 - https://github.blog/2016-04-12-meet-richard-davey-creator-of-phaser/
@@ -16,7 +16,7 @@ without missing
 
 More books and tutorials are found on the site http://phaser.io
 
-On twitter you can just ask @phaser_ instead of #phaserjs that have been trolled by russians, yeah russians because you are not alone :D
+On twitter you can just ask @phaser_ instead of #phaserjs that have been trolled by russians, yeah russians because you are not alone :laughing:
 
 To start coding just look at the examples or follow a tutorial as mentioned before
 - Phaser 2 (CE) http://phaser.io/examples
