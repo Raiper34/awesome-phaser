@@ -9,7 +9,7 @@ Awesome phaser
 * [Platforms](#platforms)
 * [Assets](#assets)
 * [Discussion groups](#forums)
-* [Other frameworks](#other-frameworks) :octocat:
+* [JS frameworks](#other-frameworks) :octocat:
 * [IDEs](#ides)
 * [Books](#books)
 * [Tutorials](#tutorials)
@@ -74,7 +74,7 @@ Forums
   - http://www.fb.com/groups/indiegamedevelopersunshine
   - http://www.fb.com/groups/1549224718628969
 
-Other Frameworks
+JS Frameworks
 ---
 - [PixiJS](https://github.com/pixijs)
 - [ExcaliburJS](https://github.com/excaliburjs)
