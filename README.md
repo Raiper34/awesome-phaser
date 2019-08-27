@@ -83,9 +83,9 @@ Other Frameworks
 - PhaserJS
   - Based on PhaserJS
     - https://github.com/straker/kontra Made for js13k
-  - 3D Frameworks
-    - ThreeJS
-    - BabylonJS
+- 3D Frameworks
+  - ThreeJS
+  - BabylonJS
 
 IDEs
 ----
