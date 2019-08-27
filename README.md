@@ -9,7 +9,7 @@ Awesome phaser
 * [Platforms](#platforms)
 * [Assets](#assets)
 * [Discussion groups](#forums)
-* [Other frameworks](#other-frameworks)
+* [Other frameworks](#other-frameworks) :octocat:
 * [IDEs](#ides)
 * [Books](#books)
 * [Tutorials](#tutorials)
