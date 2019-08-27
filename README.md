@@ -8,8 +8,8 @@ Awesome phaser
 * [Game Jams](#jams)
 * [Platforms](#platforms)
 * [Assets](#assets)
-* [Discussion groups](#forums)
-* [JS frameworks](#other-frameworks) :octocat:
+* [Discussion Groups](#forums)
+* [JS Frameworks](#other-frameworks) :octocat:
 * [IDEs](#ides)
 * [Books](#books)
 * [Tutorials](#tutorials)
