@@ -76,16 +76,16 @@ Forums
 
 Other Frameworks
 ---
-- PixiJS
-- ExcaliburJS
-- ImpactJS
-- CreateJS
-- PhaserJS
+- [PixiJS](https://github.com/pixijs)
+- [ExcaliburJS](https://github.com/excaliburjs)
+- [ImpactJS](https://github.com/phoboslab/Impact)
+- [CreateJS](https://github.com/CreateJS)
+- [PhaserJS](https://github.com/photonstorm/phaser)
   - Based on PhaserJS
     - https://github.com/straker/kontra Made for js13k
 - 3D Frameworks
-  - ThreeJS
-  - BabylonJS
+  - [ThreeJS](https://github.com/mrdoob/three.js)
+  - [BabylonJS](https://github.com/BabylonJS)
 
 IDEs
 ----
