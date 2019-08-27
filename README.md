@@ -9,6 +9,7 @@ Awesome phaser
 * [Platforms](#platforms)
 * [Assets](#assets)
 * [Discussion groups](#forums)
+* [Other Frameworks](#other-frameworks)
 * [IDEs](#ides)
 * [Books](#books)
 * [Tutorials](#tutorials)
