@@ -73,6 +73,18 @@ Forums
   - http://www.fb.com/groups/indiegamedevelopersunshine
   - http://www.fb.com/groups/1549224718628969
 
+Other Frameworks
+---
+- PixiJS
+- ExcaliburJS
+- ImpactJS
+- CreateJS
+- PhaserJS
+  - Based on PhaserJS
+    - https://github.com/straker/kontra Made for js13k
+  - 3D Frameworks
+    - ThreeJS
+    - BabylonJS
 
 IDEs
 ----
