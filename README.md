@@ -4,18 +4,30 @@
 
 Awesome phaser
 ---
-
+* [JS Frameworks](#js-frameworks) :octocat:
 * [Game Jams](#jams)
 * [Platforms](#platforms)
 * [Assets](#assets)
 * [Discussion Groups](#forums)
-* [JS Frameworks](#js-frameworks) :octocat:
 * [IDEs](#ides)
 * [Books](#books)
 * [Tutorials](#tutorials)
 * [Tools](#tools)
 * [Plugins](#plugins)
 * [Boilerplates](#boilerplates)
+
+JS Frameworks
+---
+- [PixiJS](https://github.com/pixijs)
+- [ExcaliburJS](https://github.com/excaliburjs)
+- [ImpactJS](https://github.com/phoboslab/Impact)
+- [CreateJS](https://github.com/CreateJS)
+- [PhaserJS](https://github.com/photonstorm/phaser)
+  - Based on PhaserJS
+    - https://github.com/straker/kontra Made for js13k
+- 3D Frameworks
+  - [ThreeJS](https://github.com/mrdoob/three.js)
+  - [BabylonJS](https://github.com/BabylonJS)
 
 Jams
 ----
@@ -73,19 +85,6 @@ Forums
   - http://www.fb.com/groups/igc.dev
   - http://www.fb.com/groups/indiegamedevelopersunshine
   - http://www.fb.com/groups/1549224718628969
-
-JS Frameworks
----
-- [PixiJS](https://github.com/pixijs)
-- [ExcaliburJS](https://github.com/excaliburjs)
-- [ImpactJS](https://github.com/phoboslab/Impact)
-- [CreateJS](https://github.com/CreateJS)
-- [PhaserJS](https://github.com/photonstorm/phaser)
-  - Based on PhaserJS
-    - https://github.com/straker/kontra Made for js13k
-- 3D Frameworks
-  - [ThreeJS](https://github.com/mrdoob/three.js)
-  - [BabylonJS](https://github.com/BabylonJS)
 
 IDEs
 ----
