@@ -20,12 +20,12 @@ JS Frameworks
 ---
 - [PixiJS](https://github.com/pixijs)
   - Based on PixiJS
-    - https://github.com/photonstorm/phaser-ce/
+    - https://github.com/photonstorm/phaser-ce/ Phaser v2
 - [ExcaliburJS](https://github.com/excaliburjs)
 - [ImpactJS](https://github.com/phoboslab/Impact)
 - [CreateJS](https://github.com/CreateJS)
 - [PhaserJS](https://github.com/photonstorm/phaser)
-  - Based on PhaserJS
+  - Based on PhaserJS v3
     - https://github.com/straker/kontra Made for js13k
 - 3D Frameworks
   - [ThreeJS](https://github.com/mrdoob/three.js)
