@@ -27,6 +27,9 @@ JS Frameworks
 - [PhaserJS](https://github.com/photonstorm/phaser)
   - Based on PhaserJS v3
     - https://github.com/straker/kontra Made for js13k
+- https://github.com/awayjs
+- https://github.com/melonjs/melonjs
+- https://github.com/melonjs/melonjs
 - 3D Frameworks
   - [ThreeJS](https://github.com/mrdoob/three.js)
   - [BabylonJS](https://github.com/BabylonJS)
