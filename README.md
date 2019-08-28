@@ -18,15 +18,15 @@ Awesome phaser
 
 JS Frameworks
 ---
+- [PhaserJS](https://github.com/photonstorm/phaser)
+  - Based on PhaserJS v3
+    - https://github.com/straker/kontra Made for js13k
 - [PixiJS](https://github.com/pixijs)
   - Based on PixiJS
     - https://github.com/photonstorm/phaser-ce/ Phaser v2
 - [ExcaliburJS](https://github.com/excaliburjs)
 - [ImpactJS](https://github.com/phoboslab/Impact)
 - [CreateJS](https://github.com/CreateJS)
-- [PhaserJS](https://github.com/photonstorm/phaser)
-  - Based on PhaserJS v3
-    - https://github.com/straker/kontra Made for js13k
 - https://github.com/awayjs
 - https://github.com/melonjs/melonjs
 - https://github.com/melonjs/melonjs
