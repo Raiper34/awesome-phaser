@@ -28,7 +28,7 @@ JS Frameworks
 - [ImpactJS](https://github.com/phoboslab/Impact)
 - [CreateJS](https://github.com/CreateJS)
 - https://github.com/awayjs
-- https://github.com/melonjs/melonjs
+- https://github.com/gamelab/kiwi.js
 - https://github.com/melonjs/melonjs
 - 3D Frameworks
   - [ThreeJS](https://github.com/mrdoob/three.js)
