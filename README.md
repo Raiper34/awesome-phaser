@@ -59,6 +59,7 @@ Platforms
 - developers.facebook.com/docs/games/instant-games
 - www.gamedistribution.com
 - www.lagged.com
+- https://www.newgrounds.com/
 
 Assets
 ----
