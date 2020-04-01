@@ -60,6 +60,7 @@ Platforms
 - www.gamedistribution.com
 - www.lagged.com
 - https://www.newgrounds.com/
+- http://www.jeux-alternatifs.com/ [FR]
 
 Assets
 ----
