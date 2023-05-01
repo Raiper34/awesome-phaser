@@ -57,7 +57,8 @@ Platforms
 - www.Store.Steampowered.com (cost: 99€)
 - www.Y8.com
 - developers.facebook.com/docs/games/instant-games
-- www.gamedistribution.com
+- www.gamedistribution.com <-
+- https://gamemonetize.com/ <-
 - www.lagged.com
 - https://www.newgrounds.com/
 - http://www.jeux-alternatifs.com/ [FR]
