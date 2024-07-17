@@ -13,6 +13,7 @@ Contents
 * [Tools](#tools)
 * [Ides](#ides)
 * [Boilerplates](#boilerplates)
+* [Open Source Games](#open-source-games)
 
 Tutorials
 ---------
@@ -167,3 +168,7 @@ Boilerplates
 - [Phaser CE with TypeScript and Parcel](https://github.com/Cerlancism/Phaser-CE-TypeScript-ParcelJS) - Phaser CE with TypeScript, Babel and Parcel, with wide browser compatibility and offline support.  
 - [Phaser 3 Starter Template + TypeScript](https://github.com/yandeu/phaser-project-template#readme) - Phaser 3 Starter Template with TypeScript, Webpack, ESNext, PWA, Code Splitting, Live-Reload and more.  
 - [Phaser 3 Starter Template + ES6](https://github.com/yandeu/phaser-project-template-es6#readme) - Phaser 3 Starter Template with ES6, Webpack, ESNext, PWA, Code Splitting, Live-Reload and more.
+
+Open Source Games
+---
+- [Air Combat](https://github.com/kaluabentes/aircombat-client) - A jet fighter combat game.
