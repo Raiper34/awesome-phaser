@@ -172,3 +172,5 @@ Boilerplates
 Open Source Games
 ---
 - [Air Combat](https://github.com/kaluabentes/aircombat-client) - A jet fighter combat game.
+- [OpenBoard Arcade](https://github.com/zynocode/openboard-arcade) - A premium collection of multiplayer browser board games and minigames built with React 19, Phaser 4, and TypeScript.
+
