@@ -109,6 +109,7 @@ Plugins
 - [Kinetic scrolling plugin](https://github.com/jdnichollsc/Phaser-Kinetic-Scrolling-Plugin) - Kinetic Scrolling plugin for Canvas using Phaser Framework  
 - [EZGUI](https://github.com/Ezelia/EZGUI) - EZGUI - The missing GUI for Pixi.js and Phaser.io 
 - [IonPhaser](https://github.com/proyecto26/ion-phaser): A web component to integrate Phaser Framework with Angular, React, Vue, etc 🎮
+- [zImporter_Phaser](https://github.com/zStudiosLTD/zImporter_Phaser) - Load JSON scenes exported from zStudio into Phaser in 5 lines of code
 
 Tools
 -----
@@ -136,6 +137,7 @@ Tools
 - [Phzr](https://github.com/dparis/phzr) - A ClojureScript wrapper for the Phaser HTML5 game framework  
 - [Phaser chains](http://phaserchains.boniatillo.com/) - Alternative documentation browser for  
 - [Phaser on Node.js](https://www.npmjs.com/package/@geckos.io/phaser-on-nodejs) - Allows you to run Phaser 3 games (including Phaser's physics engines) on Node.js.
+- [zStudio](https://zstudiosltd.com/) – visual UI and layout editor for Phaser, free to download. Export scenes to JSON, load in 5 lines of code via zimporter-phaser.
 
 IDEs
 ---
