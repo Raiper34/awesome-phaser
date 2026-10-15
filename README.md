@@ -172,3 +172,4 @@ Boilerplates
 Open Source Games
 ---
 - [Air Combat](https://github.com/kaluabentes/aircombat-client) - A jet fighter combat game.
+- [Open Party Lab](https://github.com/Hartwich/Open-Party-Lab) - TypeScript party-game collection with Phaser host scenes, phone browser controllers, and an authoritative Node.js server.
