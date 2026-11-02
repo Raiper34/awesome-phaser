@@ -119,6 +119,7 @@ Tools
 - [Docker Image](https://hub.docker.com/r/nidup/phaser/) -   
 - [RobotlegsJS](https://github.com/RobotlegsJS/RobotlegsJS-Phaser) - RobotlegsJS framework integration with Phaser.  
 - [Neutrino Particles](https://neutrinoparticles.com/) - Particles Editor with export to JavaScript and C# source code.  
+- [SlotVFX](https://slotvfx.com/) - Desktop editor for particles and game VFX with Spine support. Free to use; exports for Pixi, Phaser, Cocos Creator and WebGL2 need a paid plan.
 - [Phaser Node Kit](https://github.com/develephant/phaser-node-kit) - Rapid Game Development with PhaserJS and Node for Modern Browsers.  
 - [Phaser CLI](https://github.com/nerdenough/phaser-cli) - A simple CLI for scaffolding Phaser projects.  
 - [LOONPHYSICS](https://loonride.com/physics) - Edit and export physics bodies for Phaser with ease  
