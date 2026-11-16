@@ -112,6 +112,7 @@ Plugins
 
 Tools
 -----
+- [Border Kit for Tiled](https://frenkitchio.itch.io/border-kit-for-tiled) - Paid Python CLI to extrude PNG tilesets and update external Tiled TSX files, with a free Tiled-to-Phaser JSON parser preflight.
 - [Docker Phaser](https://github.com/chrisdlangton/docker-phaser) - Easy quick phaser environment for anywhere Docker runs   
 - [Phaser particle editor](https://phaser-particle-editor.firebaseapp.com) -   
 - [Kotlin Phaser](https://github.com/hiperbou/kotlin-phaser) - Use Kotlin and Phaser 2D game framework for making HTML5 games.  
